@@ -1,7 +1,9 @@
 #!/bin/bash
 
-#Escolhendo o diretório raw
+#Escolhendo o diretório raw e criando a pasta datalake e a gold
 cd ../../raw/
+hdfs dfs -mkdir /datalake/
+hdfs dfs -mkdir /datalake/gold
 
 #Trocando os espaços em brancos do header por underline ("_") para manipulação das tabelas no hive
 #e colocando em upper case pra bater com o hql modificado
