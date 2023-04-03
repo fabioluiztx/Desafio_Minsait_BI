@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Escolhendo o diretório raw
+cd ../../raw/
+
 #Trocando os espaços em brancos do header por underline ("_") para manipulação das tabelas no hive
 #e colocando em upper case pra bater com o hql modificado
 
@@ -32,6 +35,6 @@ do
 	
 	echo "Enviando arquivo $i para datalake/raw/$i"
     hdfs dfs -copyFromLocal $i.csv /datalake/raw/$i
-    beeline -u jdbc:hive2://localhost:10000 hive -f ../../scripts/hql/create_table_$i.hql 
+    beeline -u jdbc:hive2://localhost:10000 -f ../Desafio_Minsait_BI/scripts/hql/create_table_$i.hql 
     
 done
