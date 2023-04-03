@@ -30,9 +30,6 @@ spark = SparkSession.builder.master("local[*]")\
     .enableHiveSupport()\
     .getOrCreate()
 
-#Criando a pasta gold no datalake
-criarGold = ""
-
 # Criando dataframes diretamente do Hive
 df_clientes = spark.sql("SELECT * FROM DESAFIO_CURSO.TBL_CLIENTES")
 df_vendas = spark.sql("SELECT * FROM DESAFIO_CURSO.TBL_VENDAS")
