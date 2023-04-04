@@ -2,7 +2,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_REGIAO (
 region_code string,
 region_name string
     )
-COMMENT 'Tabela de Regiões'
+COMMENT 'Tabela de Regioes'
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
