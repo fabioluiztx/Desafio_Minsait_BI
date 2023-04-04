@@ -8,9 +8,9 @@ hdfs dfs -mkdir /datalake/gold
 
 #Escolhendo o diretório raw
 #Trocando os espaços em brancos do header por underline ("_") para manipulação das tabelas no hive
-#e colocando em upper case pra bater com o hql modificado
+#e colocando em lower case pra bater com o hql.
 
-cd workspace/Desafio_Minsait_BI/raw/
+cd input/desafio_curso/raw/
 
 TABELAS=("CLIENTES" "DIVISAO" "ENDERECO" "REGIAO" "VENDAS")
 
@@ -18,7 +18,7 @@ TABELAS=("CLIENTES" "DIVISAO" "ENDERECO" "REGIAO" "VENDAS")
 for j in "${TABELAS[@]}"
 
 do
-    echo "Alterando o header das colunas do $i.CSV para manipulação"
+    echo "Alterando o header das colunas do $j.CSV para manipulação"
     chmod 777 $j.csv #dando permissão para modificar o arquivo
     sed -i '1,1s/ /_/g' $j.csv #percorrendo apenas a primerira linha da tabela alterando o espaço por underline (_)
     sed -i '1,1s/[A-Z]/\L&/g' $j.csv #colocando tudo em letra minúscula pra facilitar a manipulação no hive
@@ -35,7 +35,7 @@ echo "Criando a estrutura de pastas no hdfs"
 for i in "${DADOS[@]}"
 do
 	echo "Criando a pasta datalake/raw/$i"
-    cd workspace/Desafio_Minsait_BI/raw/
+    cd input/desafio_curso/raw/
     hdfs dfs -mkdir /datalake/raw/$i
     hdfs dfs -chmod 777 /datalake/raw/$i
 	

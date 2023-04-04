@@ -9,9 +9,9 @@ import re
 
 # função para salvar os dados
 def salvar_df(df, file):
-    output = "/workspace/Desafio_Minsait_BI/gold/" + file
+    output = "/input/desafio_curso/gold/" + file
     erase = "hdfs dfs -rm " + output + "/*"
-    rename = "hdfs dfs -get /datalake/gold/"+file+"/part-* /workspace/Desafio_Minsait_BI/gold/"+file+".csv"
+    rename = "hdfs dfs -get /datalake/gold/"+file+"/part-* /input/desafio_curso/gold/"+file+".csv"
     print(rename)
     
     
