@@ -5,10 +5,10 @@ CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_CLIENTES (
     customer string,	
     customerkey string,	
     customer_type string,
-    division string,	
+    division int,	
     line_of_business string,	
     phone string,
-    region_code string,	
+    region_code int,	
     regional_sales_mgr string,	
     search_type string
     )

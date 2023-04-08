@@ -1,4 +1,4 @@
-Address Number;City;Country;Customer Address 1;Customer Address 2;Customer Address 3;Customer Address 4;State;Zip Code
+address_number;city;country;customer_address_1;customer_address_2;customer_address_3;customer_address_4;state;zip_code
 10000000;Akron;US;PO Box 6258;                                        ;                                        ;                                        ;OH;44312
 10000453;                         ;UK;                                        ;                                        ;                                        ;                                        ;;            
 10000455;Huntington Beach;US;7392 Count Circle;                                        ;                                        ;                                        ;CA;92647

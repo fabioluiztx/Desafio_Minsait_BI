@@ -1,8 +1,8 @@
 CREATE EXTERNAL TABLE IF NOT EXISTS DESAFIO_CURSO.TBL_DIVISAO ( 
-	division string,
+	division int,
 	division_name string
     )
-COMMENT 'Tabela de Divisoes'
+COMMENT 'Tabela de Divisões'
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE

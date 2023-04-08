@@ -1,0 +1,617 @@
+PK_LOCALITY;address_number;customer_address_1;customer_address_2;customer_address_3;customer_address_4;zip_code;city;state;country;region_code;region_name;division;division_name
+a42ecb04478a8f2c26d11e4d04ecf0153353dd16bd75fdbd779279b7d2454878;10007536;"";"";"";"";"";"";"";"";5;International;1;International
+976f8473829c4ab09b24c612cab41df6229e4acc0af1c7d1655d34b016428ac4;10020393;2649 East Mulberry Street;\"\";\"\";\"\";80524;Fort Collins;CO;US;1;Western;2;Domestic
+d42a53e32910aeaf14a7b2d800507505eb93e6e0142e151884f5e3e96f447eeb;10018363;EDIF N 4141;Apdo Postal 642 Zona 9-A;\"\";\"\";\"\";Panama Rep De Panama;"";IR;5;International;1;International
+03ccb3bfb064afc4834d211a5f6ea30f506b72f5cd87704afcc405c6261354c4;10020491;"";"";"";"";"";"";"";"";5;International;1;International
+a36075a5b7a07d1b90176d94aa43d5d23236496f7c30e8d0b29e2b1a7b96e9a9;10011979;Rua Eng Ferreira Dia 241-243;\"\";\"\";\"\";\"\";4100 Porto;"";UK;5;International;1;International
+b4eec331773b9a905a3c14e8b88e22100c1684fa04dd7f960d05d255f83fde3e;10014540;Avda Bdo O'Higgins;\"\";\"\";\"\";\"\";1980 Santiago;"";UK;5;International;1;International
+6c5478f0393e3e0e45ecc9fbcdaee08e1cfe59d9b7d20b9eb86d91f5ee233c30;10021380;"";"";"";"";"";"";"";"";5;International;1;International
+ba1b49eab589b80e6578151db035328ad0bb7dfe00975b5b9ff3aac0d06b61ea;10025769;850 Commerce Street;\"\";\"\";\"\";96002;Redding;CA;US;1;Western;2;Domestic
+7f2823b0d2e7649befc225d1e2296b3a1f4ede7f44d766c7d86cee9716f05a31;10021184;14312 Stenbock Way NE #F;\"\";\"\";\"\";97002;Aurora;OR;US;1;Western;2;Domestic
+15e3bf5c9f5ec1ba8e5bf048db0e97c8dace93f8406c83d04de27c86c3cc0399;10019617;2445 FM 2920;\"\";\"\";\"\";77388;Spring;TX;US;2;Southern;2;Domestic
+735e48d73b6a13f8a393c3dd2c2dab3606ddeb57d2c9a3a10e277768904a1c89;10009676;167 East Kalamazoo Avenue;\"\";\"\";\"\";49007;Kalamazoo;MI;US;4;Central;2;Domestic
+ce7cc7babf6de03ffee36ecddca78b0fbb2e1539502c17845415d6049bad6e23;10017054;7640 North Telegraph;\"\";\"\";\"\";O;Newport;MI;US;4;Central;2;Domestic
+074ed82a495a4ee81d15dbd4cd5067098d03b1fa2a31366f9cb3bdcad30eb0f1;10012761;Av 6A Norte 25 N 43;\"\";\"\";\"\";\"\";Cali;"";UK;5;International;1;International
+28102162b9398b12456646c101304d1652456407db90e37b4a8fa96e2408c618;10022434;PO Box 958;\"\";\"\";\"\";92670;Placentia;CA;US;1;Western;2;Domestic
+b80c79c462ca23b96d2b4b801f29f2b2600457a7fa159500e97982a9c83f94c4;10012715;44 Tunkhannock Avenue;\"\";\"\";\"\";18643;Exeter;PA;US;3;Northeast;2;Domestic
+babfe5e6c9ff74425fdd1d97cc39a37d3691b0c557d1ac6dfcb63cb64f0fa5a5;10001786;"";"";"";"";"";"";"";"";5;International;1;International
+69b6f2e6b4d0fc196e9f1edce588699941a461f16278d065016ea07916b5b8d0;10023715;Central Division;PO BOX 600;\"\";\"\";46168-0600;Plainfield;IN;US;4;Central;2;Domestic
+c85e5e94602a3b65621a2f964b6c2e559a2c8bd1660ce6cbc9945ba211f97aa5;10010974;13296 County Highway 00;\"\";\"\";\"\";54729;Chippewa Falls;WI;US;4;Central;2;Domestic
+01cf656e90156b752734131c0b83677a6f7346ccb0a1770cfadf182179557c78;10013870;"";"";"";"";"";"";"";"";5;International;1;International
+ae61ae5127db1fbc815e370d72653603fac2ffb831bb37b46430a027a7c52dd0;10025242;Parts Division;140-2 Kye-Dong;Chongro-Ku;\"\";110-793;Seoul;"";AU;5;International;1;International
+b3c0a46e3f2168e2ea6c8e35734499b820e890f1c1b173b2e9c0719941f8bf08;10017072;4200 S Morgan Street;\"\";\"\";\"\";60609;Chicago;IL;US;4;Central;2;Domestic
+1074cb534b31652ca2ff40da4428693d32a17e46c162fa0f0c7b52853f2e7642;10025298;1111 Finch Avenue West;Unit #22;\"\";\"\";M3J 2E5;Toronto;ON;CA;0;Canada;1;International
+5d5a0673a73b5846917edd86f8616feaae843f9eb426f5380d2ac725b5027413;10009642;812 Draper Avenue;\"\";\"\";\"\";60432;Joliet;IL;US;4;Central;2;Domestic
+a4ef3efa6150d467ffd3637410322aba6c6ebc86e9f6852ed489fdbde45ccab1;10025241;RU-3 Hamamatsu Nishi;PO Box 1;\"\";\"\";432-8611;Hamamatsu City;"";AU;5;International;1;International
+71035c1340beceb47d46bcf8be8e8b3254c3f536110120d1c20ea695e6dc5a90;10000460;709 Rivergate Parkway;\"\";\"\";\"\";37072;Goodlettsville;TN;US;2;Southern;2;Domestic
+d378c87adcca9bdfcd3d49cd5e3c18f18f0b25b5e437d974e8522ebef8d2228e;10025032;c/o Rampar International Trade Corp.;6260 Place Northcrest Suite 305;\"\";\"\";H3S 2T4;Montreal;QU;CA;0;Canada;1;International
+10024b6775b8322c5ddcf11fe03057bdce8c9c3a3ec358394528639bd771af0f;10007121;5711 West 36th Street;\"\";\"\";\"\";55416;St Louis Park;MN;US;4;Central;2;Domestic
+8aaa56ecece7acfca04d39713e2f35f3f5e7defc62b0ae020b85cfca8ec47eaa;10020914;PO Box 547;\"\";\"\";\"\";71225-0547;Calhoun;LA;US;2;Southern;2;Domestic
+3c0f3166324066e4d3f832a9c4f3112d3336a2e24b6e981fd20ce735ae8c6fc5;10021668;13208 East 40 Highway;\"\";\"\";\"\";64055;Independence;MO;US;4;Central;2;Domestic
+2b66563db25e3248130e6452a0ed81e677422894f98fa15a85ac0767ac5ef53c;10009606;PO Box 105;\"\";\"\";\"\";3136;Kilsyth;"";UK;5;International;1;International
+d0796e241cec2c377b4997fddde5bc41cab16010c6ee681319dcbab8cd56c40b;10002140;"";"";"";"";"";"";"";"";5;International;1;International
+ab7e2fa3bed9475d6b9bdb6a053f87c1f7d3fa8da8ca6c03e038cc5604870e22;10019682;PO Box 409;\"\";\"\";\"\";57039;Lennox;SD;US;4;Central;2;Domestic
+2334bbb3b2fd944d388dbe8c360bd649f4b2799de8314e900db6b0732ce92ee1;10026334;"";"";"";"";"";"";"";"";5;International;1;International
+16291465d7add0e6a3108115b3ee219d3f4b9ecaf7b7a7a7b5f8ec883587080d;10026062;2301 Central Parkway;\"\";\"\";\"\";77092;Houston;TX;US;2;Southern;2;Domestic
+8b74d1386bee28cc63b543234c26232f1dcb0d25a83849d06c5c2e0329780a05;10021111;"";"";"";"";"";"";"";"";5;International;1;International
+4249ba493a71189dffd63998ea1be4aebce430bdcd91a69bfd34eb77a6df3b7d;10014533;Chicago PDC #22;Attention  Accounts Payable;PO Box 2060;\"\";60507-2060;Aurora;IL;US;4;Central;2;Domestic
+223151b58fec4457b9375794d764aa926d2e9b44e34671ef6707a80fb5b4bc0f;10025246;515 Oak Point Highway;\"\";\"\";\"\";R2R 1V2;Winnepeg;MB;CA;0;Canada;1;International
+d63a8b9d090440a9c999cdefe63fee7d86915e4e328456e54249fbc4f48e2878;10004602;"";"";"";"";"";"";"";"";5;International;1;International
+d58a8b15e38f5632a2e12680119b34c51dc0c63a8086b12d7f6ac8a2b787ca74;10025086;"";"";"";"";"";"";"";"";5;International;1;International
+fe4fe6e246df53cc8fd2c6a098b3910af43963f807e49b633a5e905a61cd076a;10021179;316 Millar Avenue;\"\";\"\";\"\";92020;El Cajon;CA;US;1;Western;2;Domestic
+051c13eb27b7fffbe980ce595c21234ccc7a5f468b4c51d5121bf2ab15f1eea6;10020306;"";"";"";"";"";"";"";"";5;International;1;International
+414ce0793bb955b8062479911e7d47c01f3a1433490faa47406cfdb03a66a606;10012369;"";"";"";"";"";"";"";"";5;International;1;International
+59e9d856880bdfd357ad091f153cc38b818af7d64bd18738f227d49ed9524fba;10022423;12110 Best Place;\"\";\"\";\"\";45241;Cincinnati;OH;US;4;Central;2;Domestic
+454c62844dac7f0e8276be7bfbe7e28db2cd0a0bfe3cc93029e07b1da2fb6992;10012305;"";"";"";"";"";"";"";"";5;International;1;International
+6e6c4c85b64a773970cfecf0c50784c6282203959a07c4545df794116ce4238b;10026521;97 Banawe Street;\"\";\"\";\"\";1114;Quezon City;"";IR;5;International;1;International
+9ceab8951d87b9d13fcd905ded89739dfae83e98644884d3bfd47b0568d33216;10021305;"";"";"";"";"";"";"";"";5;International;1;International
+5f04eab13220b6e5edbaec7c55ecefacc17d93b8bf9084b2aacdfbfc7570dcf2;10012927;"";"";"";"";"";"";"";"";5;International;1;International
+52db130bf7b1e6144bfe7189efb4918a1796268c105212ed9bdc8b3df735266a;10021472;9475 192 Street;\"\";\"\";\"\";V3T 4W2;Surrey;BC;CA;0;Canada;1;International
+d2b48f2d52a2ca988df07193b083f5a6e48993c7de643a5d116bd72bfdf1fdfd;10021175;PO Box 5418;\"\";\"\";\"\";37602-5418;Johnson City;TN;US;2;Southern;2;Domestic
+8fce09fd1a629ce8a3d945e929a7cc51be8c72c39198c0cbfb7f05feb2f649d1;10022240;1665 Shawson Drive;\"\";\"\";\"\";L4W 1T7;Mississauga;ON;CA;0;Canada;1;International
+ccca67aff3eb66eaf7535329e2930075f0f19ba39ea459944753a1cc43ae578f;10027050;3204 W Mill Road;\"\";\"\";\"\";53209;Milwaukie;WI;US;4;Central;2;Domestic
+bfcb174fa0b799f450732ae266b163a34001d4248ebde9db273c5a1ff58b5db5;10015267;5750 Ringe;\"\";\"\";\"\";\"\";Sollinge Molle;"";UK;5;International;1;International
+374347e70fa02b63cf95af0237d87d6dd54cefaa8704710c9b4902320f315ac9;10015495;Attention:  Accounts Payable;686 South Adams;\"\";\"\";66105;Kansas City;KS;US;4;Central;2;Domestic
+38bc354ccdb1580dd59fc8990c9dd984ab00c59df37289a84665f22011f5218b;10025264;3545 South Richey Boulevard;\"\";\"\";\"\";85713;Tuscon;AZ;US;1;Western;2;Domestic
+243cb1313dc1fa1144c2946ffcecde4966df35704e002cfba028f5682cf12582;10022166;"";"";"";"";"";"";"";"";5;International;1;International
+474b3ed2c22340c466d51bb29fc0b3ae00da51f1ec755691b37353798d74f54e;10022732;PO Box 900;\"\";\"\";\"\";33851;Lake Hamilton;FL;US;2;Southern;2;Domestic
+13b2a88b2347522adcab55f17917f9ec550293085292457a403156ca5c9273cc;10021204;480 Gordon Baker Road;\"\";\"\";\"\";M2H 3B4;Toronto;ON;CA;0;Canada;1;International
+7d8b795d4b4c1c6ca4a091db4aa4e58a7814041231e00611bb67d1468c7c18ee;10024477;Modulo 2 Manzana 27;Parque Industrial;\"\";\"\";\"\";Santa Cruz;"";UK;5;International;1;International
+ad93815521c4b26ea050e7f48db7745457091e255ea8fe1e2b54f2a4217e2c60;10022730;21533 Mound Road;\"\";\"\";\"\";48091-2991;Warren;MI;US;4;Central;2;Domestic
+00fa6bee2b63749e988ebf4f5bc767afc50b0ee138c533fbcde943726661a5c8;10024924;"";"";"";"";"";"";"";"";5;International;1;International
+478db41d9e834c275676b089e46d855d428236a25d17a2dc7f8f1b66cd98c759;10015793;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+698405a396c7e0e99db0990fde122e6778288a8bcdd261110232688f32f8e0a5;10016542;Greenville PDC #23;52 Bruce Road;\"\";\"\";29605;Greenville;SC;US;2;Southern;2;Domestic
+b973c2fcba56260a18a32a0379fd4617152963f626bebf97e5ab03a35f75b9ae;10010698;17010 S Main Street;PO Box 88;\"\";\"\";90248;Gardena;CA;US;1;Western;2;Domestic
+6fa4128a4136f2f06be8148009a8fe91b735277bab5d133240d0e58d7ab485a7;10022431;845 Third Street;\"\";\"\";\"\";24179;Vinton;VA;US;3;Northeast;2;Domestic
+6b8ce3ea71ef1ebc34ac4cdb976c869160bad4009aaa34a0a64025bf3c840e63;10024034;16215 118th Avenue;\"\";\"\";\"\";T5V 1C7;Edmonton;AB;CA;0;Canada;1;International
+2d6055a08dfe0abf7c56e22adaf208e8cd7a68c2b6c63c2ce1f9f78cbd0ed5a7;10011821;"";"";"";"";"";"";"";"";5;International;1;International
+a8a5c3aaa41c0d17d12def499d0c475cd73a602ab0b00ca9424a1c6a3137457c;10002149;"";"";"";"";"";"";"";"";5;International;1;International
+811c205a06134a79063d8ffaf95ed7ea3b56f636beb67428b87a5d82f5c8c01b;10011842;"";"";"";"";"";"";"";"";5;International;1;International
+b4643611f29ffb65d92dab59569816abde2ea00ffcecc96fd4dfe1ba1776e50e;10015275;1601 East 29th Street;\"\";\"\";\"\";54449;Marshfield;WI;US;4;Central;2;Domestic
+3ecc46965eb7bc12aca44d121cbae58763a4cdbead7ab6eb1d419f16b810d403;10000488;"";"";"";"";"";"";"";"";5;International;1;International
+1afc248186dbba5d2297026b12681d25f86ab97a24b76033de632f8c4ab1086e;10013039;"";"";"";"";"";"";"";"";5;International;1;International
+511c5ec28e50da5e8c4436f2e310974348fd10de6a0131e6cbd4b9e1f9e5a6de;10023760;60 Lafayette Road;\"\";\"\";\"\";3862;North Hampton;NH;US;3;Northeast;2;Domestic
+9610ecab24533b5bb08f40d6cca822130e2dac9d542503c7ccbdd7f915b71a56;10010914;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+040c7dd3ba0c233eeee71808ef8acaad980581bbe59701850bafac3ef07ada0e;10016588;6025 Corridor Parkway;\"\";\"\";\"\";78154-3214;Schertz;TX;US;2;Southern;2;Domestic
+f3c57a9d3b251dcc000aee77df87f1a5f7111cb2c8e940cab730301fecdc0ef6;10020390;16241 South Us 27;\"\";\"\";\"\";48906;Lansing;MI;US;4;Central;2;Domestic
+295e8a6c4148535143bcb5f85a70006153ac6b51331a30297c6365737f10b7f1;10020962;7320 West Market Street;\"\";\"\";\"\";16137;Mercer;PA;US;3;Northeast;2;Domestic
+cddf84e0f3c9f0b1739d81480dc7aebf83f2bcc12b0d65a7270cff2ca4dd0079;10022764;2610 NW 10th Street;\"\";\"\";\"\";34475;Ocala;FL;US;2;Southern;2;Domestic
+06b07a1f31455d75fe462cf46c0441269994f2f9991f65a8f80bfe67d168c98b;10021415;100 Gasoline Alley  Suite A;\"\";\"\";\"\";46222;Indianopolis;IN;US;4;Central;2;Domestic
+0ec90be534b5a202a0d72288ded8be72b9306afed2a9c7da633deae280820d32;10021239;"";"";"";"";"";"";"";"";5;International;1;International
+0c89b3446bf7be60d49fccec64d0b9da8067e97fd116cc08f388fb69c7484ec0;10023509;513 West Waters Avenue;\"\";\"\";\"\";33604;Tampa;FL;US;2;Southern;2;Domestic
+503eaf1476c8daac12dbd0e27a1a5de45bc2d20ba2ef31779c45c6c1c1d5dfff;10025063;Private Mail Bag 53;St Peters NSW 2044;\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+9fbb168ef1c69cd8194492795133ba61468c363b1194799e5d28a2a2b826a138;10026532;500 Highway 18 West;\"\";\"\";\"\";50438;Garner;IA;US;4;Central;2;Domestic
+7b0e7a6bcf124bf717df1ca1e7546dd22a99287b1c90685d5e720826ff6176d9;10023785;Defense Const. Supply Center;PO Box 16791;\"\";\"\";43216;Columbus;OH;US;4;Central;2;Domestic
+d48a5ed085fb8898e22ba90b6c018a6c92ff8c1a44c487beb0e41971d2c76572;10000458;PO Box 840;\"\";\"\";\"\";48606;Saginaw;MI;US;4;Central;2;Domestic
+eb29d32f3b523b28210fcb662c699084e75a8660fafd4c4355a58e654b1d20a4;10005376;"";"";"";"";"";"";"";"";5;International;1;International
+98fc48c775d79ab4ee23d9c422f8cb5a403a87ce5071becc33dae525259d80eb;10000453;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+5d7c85b4a773ebf5d81a58d51823f342b6a20bdc3e2f95e52297188855922b8e;10021411;"";"";"";"";"";"";"";"";5;International;1;International
+ebf75c7bc0e4f282c0a3c9c70d2d763f13c9351c07e7c5e8a22106180fa28f60;10022962;"";"";"";"";"";"";"";"";5;International;1;International
+c3dc999af3cc4dcde2625418a0879732b8b30fa4846c731964ada722fc375d4c;10025049;13270 SE Pheasant Court;\"\";\"\";\"\";97222;Milwaukie;OR;US;1;Western;2;Domestic
+418a01c050ce323322ff130630787eb2a3869642d00ce8f9eccfbf77b69fc241;10026861;2280 South State Street;\"\";\"\";\"\";84115;Salt Lake City;UT;US;1;Western;2;Domestic
+b67fde58f2aaf11e4f0c371ab4fff093c526bf9b553a4f6683e54d6195dd1e78;10010935;877 1st Avenue NW;\"\";\"\";\"\";51250;Sioux Center;IA;US;4;Central;2;Domestic
+bd49a0666e4292e8e026b433638944f3a4016d1cefb80eec423626b5cfcbbf45;10025304;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+3566f1890eca00e8007f0b5e2a90f1c4ebe94f5ed416b8deb4ece83fa07d1327;10024550;PO Box 2017;\"\";\"\";\"\";54913;Appleton;WI;US;4;Central;2;Domestic
+2bf006f783409be027a3f3ea71e207d5e01a24ea3ccdd8ce6505b26fc03528bb;10013079;"";"";"";"";"";"";"";"";5;International;1;International
+4e2f4c12fc84b297c64f5ca4f3d4a3c169d9d34f4a8ac9d4bbac1489ab24d8ed;10023703;DUMEN SOK. No:3 D.9;GUMUSSUYU;Takism;\"\";80090;Istanbul;"";AU;5;International;1;International
+2f6137e0f41faa8e7f9b5825a0f10c92aa0fc6362be5d35106964d8daa2d0fc5;10011499;"";"";"";"";"";"";"";"";5;International;1;International
+d1dfcd654ad3d5f8d6c6cb2c9ca3b056d97186e8137a216b9e7fda3bd70346cf;10006848;1101A Potomac Avenue;\"\";\"\";\"\";22405;Fredericksburg;VA;US;3;Northeast;2;Domestic
+ba33ba71365f03bdc229b8cdda92c36d8e0c5a3be22c2c8999f1bc0dbd9f2182;10010906;5702 Industry Lane Unit B1 & 2;\"\";\"\";\"\";21704;Frederick;MD;US;3;Northeast;2;Domestic
+20df5fb76852ab2b8718cc8a5cab03ee5300066a7426fd7c70f4c03738427639;10025038;PO Box 568;\"\";\"\";\"\";17055;Mechanicsburg;PA;US;3;Northeast;2;Domestic
+44433012c6936c8e91770f5ae67b7c103784c04b22b55fe7910d775c078f2348;10026291;1880 N Westwood;\"\";\"\";\"\";63901;Poplar Bluff;MO;US;4;Central;2;Domestic
+404fed754dc86bd0d8817ba6d8e1302afa6070ffac4474cae0b5e4e5c6c1988b;10021139;PO Box 3382;Attention  Accounts Payable;\"\";\"\";48151;Livonia;MI;US;4;Central;2;Domestic
+543831e023f5dde9eb42f0b6645a4fa83c0c0d7f3e0961527f3ae581b34372b3;10011345;"";"";"";"";"";"";"";"";5;International;1;International
+8d95a74cd84fa445f420350a0fa97433a233338194dd8c5c184991b446323daf;10013312;"";"";"";"";"";"";"";"";5;International;1;International
+f881e692f9f81843c7b00a7a182f9a234287afaee6cbfeb54214e31bdc95d6d7;10002128;"";"";"";"";"";"";"";"";5;International;1;International
+28dc8ab059a3ccd428efb722fe91bebf22e7dc4cda97f1144555665888e599c6;10026560;Central Accounting Service;PO Box 6005;\"\";\"\";48121;Dearborn;MI;US;4;Central;2;Domestic
+0f93aa5d194040fc898b9d0aae3ec90db0d6034d0b9b78406df9cdb411d682b3;10018603;PO Box 12932;\"\";\"\";\"\";\"\";Dubai;"";UK;5;International;1;International
+5ab646b1dc9207cd726f2667c3205d801883e59cacd91e467755055befe6c351;10020192;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+1322beece3c2b15a7e7b6ed554f822a2c6dc13babc62935c2965165294f3d39f;10005922;"";"";"";"";"";"";"";"";5;International;1;International
+107a783f2c08d958775f20962ea56370b018cc6b1f182b2bcc9f0437c3ffa855;10022750;8300 Lane Drive;\"\";\"\";\"\";49098;Watervliet;MI;US;4;Central;2;Domestic
+ff4b4d920916db3fdaa5f3f73427506c1c66ecffa014606a52035bb985f00730;10023759;106 B David Green Road;\"\";\"\";\"\";35244;Birmingham;AL;US;2;Southern;2;Domestic
+8d4071b788a90cc926198e038e2765e7a1e7ef25adf5c5bef09220e4d8cdddf2;10009356;Global Motorsport Parts Inc;PO Box 1179;\"\";\"\";63702;Cape Girardeau;MO;US;4;Central;2;Domestic
+9143af19dc5b7c5d241f5ce045270a977435f73bfb78333666cc0031d48eb1d9;10000466;3213 Orange Grove Avenue;\"\";\"\";\"\";95660;North Highlands;CA;US;1;Western;2;Domestic
+f04feecc967227726d8dfb8ce00a973984e9c697cec1095a21185ecd08873913;10026365;"";"";"";"";"";"";"";"";5;International;1;International
+965bc2301e6f93a6c0607b57fde75bedf857ecea7404c1c7ee6159756252b394;10011198;703 Waverly Street;Route 135;\"\";\"\";1702;Framingham;MA;US;3;Northeast;2;Domestic
+06e10e0d0578a51a37a0f56fdcc186b1cf49ce2302da1a7b1076106bde5f019a;10007253;"";"";"";"";"";"";"";"";5;International;1;International
+53d19fdb10c9eb4eab33e6821739f7508516b9aa73dcf8938da26048520ed67e;10025037;725 North Twin Oaks Valley Road;\"\";\"\";\"\";92069;San Marcos;CA;US;1;Western;2;Domestic
+953c28227852e4235db408987b1616eee0c54a16bd1c6b70761d9f624e35e0ea;10020445;PO Box 80;\"\";\"\";\"\";57709;Rapid City;SD;US;4;Central;2;Domestic
+a01e40daa72ac032995f302023675797174234a3e82fe7a08b38f19dd07b02e3;10005236;"";"";"";"";"";"";"";"";5;International;1;International
+3b3f1042de6ca696fc743c0dad834637901a65584d0792849b10c1250de75b39;10010897;PO Box 588;\"\";\"\";\"\";37188;Whitehouse;TN;US;2;Southern;2;Domestic
+f243f552ea70bd46339f3b09305918a9472fbe468b03fb9feff51c386ad431f9;10020446;Worldwide Purchasing;1999 Center Point Parkway;Mail Code 483-550-200;\"\";48341;Pontiac;MI;US;4;Central;2;Domestic
+a06a1b4ead4189ef5bbdfa74488e6bedb3a8bae112e4ec902b6ec80b1073f389;10027560;3356 Kermit Highway;\"\";\"\";\"\";79764;Odessa;TX;US;2;Southern;2;Domestic
+89ce4872c9185ad637162b1c831e3830fa2588ddc2ec062dcdb07f63bf01b248;10007566;2106 South Riverside Road;\"\";\"\";\"\";64507-9799;St Joseph;MO;US;4;Central;2;Domestic
+de38c14e4f3d04491a08af7d9d9795d4f9bfb30d78ff59fc80a451fe73f89d81;10002144;"";"";"";"";"";"";"";"";5;International;1;International
+7cb94fa724201f9cc24ff4e4b251e05958d72031bc7267006b1e3446da0fee73;10025508;1809 Main Street;\"\";\"\";\"\";E1E 1H5;Moncton;NB;CA;0;Canada;1;International
+1e5cca7036af5dc8e8953dd6481c36fc1ebb459eb6a1ef8c8b791520ed1fcd72;10010865;"";"";"";"";"";"";"";"";5;International;1;International
+2b2ca8dfe848f6f57d42a6311aa377a70bd7824853d6d472d549e1a58352ebe3;10024704;"";"";"";"";"";"";"";"";5;International;1;International
+04cee996be433abbe54006dd727e46ceeccc4d73f98911094b77fc661dc140fa;10025285;2401 East 31st Street;PO Box 72638;\"\";\"\";37407;Chattanooga;TN;US;2;Southern;2;Domestic
+3dc72aba243e787df481a13d734c383e1176e21eb7fae0615785135e4c34d35a;10016548;4700 Rangeline Road;\"\";\"\";\"\";36619;Mobile;AL;US;2;Southern;2;Domestic
+331373e5a24a6706dd747ad48c82654fdfc1e9a33acd7af1c0d8eaae3bd0acc1;10024003;Attention:  Accounts Payable;5500 East Second Street 2nd Floor;\"\";\"\";94510-1020;Benicia;CA;US;1;Western;2;Domestic
+23d9b425d9459f06e6f7a93d7cfe3771a4fd2d1b41671787fbd0dae647457a8b;10025560;125 Hampton Ct.;\"\";\"\";\"\";28032;Cramerton;NC;US;2;Southern;2;Domestic
+121ce216d88a93241d91394f4d983bab48100a5ffc6526c97da2f27099cefa6c;10017852;"";"";"";"";"";"";"";"";5;International;1;International
+6a0b21e31de34b2e7fee7dec83ed6ba4e55d04bcd703782ee99b4583f16a5a31;10009672;Attention: Accounts Payable;PO Box 21502;\"\";\"\";85036;Phoenix;AZ;US;1;Western;2;Domestic
+1032628919052b461c651bc8dd2b74d8fa61786d86f9e5d088e301893e7615f8;10023489;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+ec48f607253388902fd50036a46b7e21a736c3cbc596c741f47fec11da97f287;10018352;"";"";"";"";"";"";"";"";5;International;1;International
+7a1990eff89c2b60b0b80eaacbdc28a67d874c11b50030a595952885df679978;10019420;PO Box 880 PC-112;\"\";\"\";\"\";\"\";Ruwi;"";IR;5;International;1;International
+a41a6677ba2a2944069a2d4736901b01891e1d90d3d44bbf6c97268b4086a260;10014059;"";"";"";"";"";"";"";"";5;International;1;International
+d78c901f50ae1902249da14d9e33819d10fc5feeacc5881e904d5e72848805e6;10023793;PO Box 249;\"\";\"\";\"\";70744;Holden;LA;US;2;Southern;2;Domestic
+c8854c5e5e5f11f3b16a30e29a43314d00d6bc18c8ec3ceee8c9cdafe74a3e74;10024262;124 Hegenberger Loop;\"\";\"\";\"\";94621;Oakland;CA;US;1;Western;2;Domestic
+a2ba19eb94a0be8475f847d22a00ed8a8ba8f0fb2ef29f4a6a895a115d2135fe;10018867;2400 R E O Drive;\"\";\"\";\"\";48507;Flint;MI;US;4;Central;2;Domestic
+e5fa70149257786cf0f7329a312f90cac2faf2fdc056e1ea22511f3e55dfdebf;10021297;"";"";"";"";"";"";"";"";5;International;1;International
+a45ef836e5a9f1fd14881964bc0e325847a64215b61563ae2f76a488dc083f24;10023757;"";"";"";"";"";"";"";"";5;International;1;International
+2f8243fec7d25c1a998a73f66d9452e978fb28acd1a297468c9e5beaf5166cb7;10021977;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+368e533a428fb3fa3a11629d661395869a7ae616807f4c53f76f30f80db6b1a0;10019105;6029 Mechanicsville Pike;\"\";\"\";\"\";23111;Mechanicsville;VA;US;3;Northeast;2;Domestic
+4db3cb0dc86f217607869ab536bbccae827b66b564e3ec6b1918dea47979970f;10025814;5300 Glenmont Drive;\"\";\"\";\"\";77081;Houston;TX;US;2;Southern;2;Domestic
+c9dfec21ad79d4d2f825ced06ab6eb0ddd3b4e3db6bf855703d07ec088ea5212;10012234;PO Box 4658;\"\";\"\";\"\";94540;Hayward;CA;US;1;Western;2;Domestic
+1d838de1e0705d700146432eeee4aa68f0df28f41d5f8b80624d6e040dde1ee9;10025036;1920 East Front Street;\"\";\"\";\"\";64139-1538;Kansas City;MO;US;4;Central;2;Domestic
+4e5dfe5ca21f33d50d4f8a78781c48a582f44d719e6ca4a4a67f72d634d6d7f5;10018885;128 So. 2nd Avenue;\"\";\"\";\"\";83201;Pocatello;ID;US;1;Western;2;Domestic
+b56fec6de1a60d2033437d6c064250abe24f71a585dd9ac3bb9394916469bdc9;10019942;299 East Country Road 300 South;\"\";\"\";\"\";47362;New Castle;IN;US;4;Central;2;Domestic
+e2c0bcfc839e37657a1b7bd7ec6bd8c62e8e844cdf5ff7a7ccad896238ca6a93;10026348;PO Box 220;\"\";\"\";\"\";27302;Mebane;NC;US;2;Southern;2;Domestic
+f13aa396b97212b4e61c57f2b0393da4b0dab1da58e01ec2e2bcaf6731331cb8;10025299;6260 - Place Northcrest Suite 305;\"\";\"\";\"\";H3S 2T4;Montreal;QU;CA;0;Canada;1;International
+463f04fff669cb0863974ba6b77cff5ed10360f4165486b9e804fd0a11d7fc22;10022201;Av Blandin Chacao;\"\";\"\";\"\";\"\";Carcas;"";UK;5;International;1;International
+3fe62226e8eb32093182a1943b1985046ab4d387516fe0fb2cb5d47f39234af0;10016045;1051 West 7th Street;Building # 2;\"\";\"\";53566;Monroe;WI;US;4;Central;2;Domestic
+d070a27cd9ccf60804b0de23d27ca4cdae05a8e9373ceb406f9c868e64a4f230;10013011;Vagnhofda 23;\"\";\"\";\"\";\"\";112 Reyjavik;"";AU;5;International;1;International
+f73283c41574d9c6c1f76916ee415c766ab3c902552dff1bf1ba6a2284d16fdf;10020715;Avda 10 De Mayo S/N;\"\";\"\";\"\";23700;Linares (Jaen);"";UK;5;International;1;International
+66733e55fa2ed997c110df774953c0d19cd95f8200b0accb484ee8fd585940dc;10003554;"";"";"";"";"";"";"";"";5;International;1;International
+11566b21aa2a6a47defa4a8ef7f40d436e53e6469ba57ad2fe444cf210530ff4;10008596;PO Box 578;\"\";\"\";\"\";71075;Springhill;LA;US;2;Southern;2;Domestic
+7dfee93fdbccc258e8627b9694de1e736e93e8458d147806806c092a86a3d1ed;10005043;Paseo Colon Calles 34-36;\"\";\"\";\"\";\"\";San Jose;"";UK;5;International;1;International
+60839239df09732c29de17d012077df8a36b86ae96d7879614f39a375c56a326;10026843;100 East Inyo;\"\";\"\";\"\";93274;Tulare;CA;US;1;Western;2;Domestic
+399a140fd8d1ef7cd29e8b95d57f1ab93d9b4e09e439dec208cbb8cbdba8936d;10009653;3355 American Drive;\"\";\"\";\"\";L4V 1B3;Mississauga;ON;CA;0;Canada;1;International
+1ce22342d5f52d2d70c5e03059b6faa43ebe485db5e08d712f4f2da239968df2;10010717;208 W Main;\"\";\"\";\"\";66548;Waterville;KS;US;4;Central;2;Domestic
+6cb164b56c98f1709bfe6603e8aaaa37c979f623b616770665dbbe417c9a511d;10019952;"";"";"";"";"";"";"";"";5;International;1;International
+75f96c879a1241e5428e3e28a94a550cf2a8875e557b1c0d3f41b70cc528f9de;10021422;3251 East Imperial Highway;Distributor #1111190;\"\";\"\";92621;Brea;CA;US;1;Western;2;Domestic
+330d3986e88acdabf4860d9d4db7dc944c09f241ef60c6ac69efa4200af7e72a;10002489;PO Box 266;\"\";\"\";\"\";30180-0266;Villa Rica;GA;US;2;Southern;2;Domestic
+c3feabea0f3cabc079f16e42e7b8d04ce387852ec10971e55da7d1a0ba0bb383;10020684;5415 Lamco Drive;\"\";\"\";\"\";36117;Montgomery;AL;US;2;Southern;2;Domestic
+69634a582c3f10d4070858a4fca3f9a37b3c280e1561413c5208f2bff00aef8f;10025024;"";"";"";"";"";"";"";"";5;International;1;International
+de65231362a475f987959656f31359ce80be34373e6649f8a74714fafecad77c;10000481;Box 5516;\"\";\"\";\"\";60680;Chicago;IL;US;4;Central;2;Domestic
+5eddf55ab34af0fa4da7cecef7465fcd5da03086fdc0d31c01fe5beb3729d74f;10016047;975 Main Street;\"\";\"\";\"\";37206;Nashville;TN;US;2;Southern;2;Domestic
+60c6a893a74a4b301a3463279e0a1450a8a800b285a3f7e9cf9ddec8f70cf71c;10020181;Am Schwimmbad 8;Postfach 2008;\"\";\"\";\"\";D 95326 Kulmbach;"";UK;5;International;1;International
+b4ea58a93663bf07848de0d82752527be44dddf5ef1b0316eb8d9264cc51929a;10020184;Corporation USA;Nissan Drive;\"\";\"\";37167;Smyrna;TN;US;2;Southern;2;Domestic
+a03ca0cbb53113d855b6d6214b8ef0e81bdfd9d8b47839637a9c0f4e0bf1553d;10002412;"";"";"";"";"";"";"";"";5;International;1;International
+371f99803d29de10673e6f430fc850738100c490d7660ad34cf4257dc78040dc;10022725;1723 Webb Drive;\"\";\"\";\"\";30093;Norcross;GA;US;2;Southern;2;Domestic
+06bef5434b4b387b90792fb8cb4a89abdc785b2fe8c52811ca25e4d20ba8bce4;10025392;"";"";"";"";"";"";"";"";5;International;1;International
+6a3f08ff5f3172ca0c93f76960f6f73d2a96149309183530962201ce86a7bdcc;10007123;PO Box 194255;\"\";\"\";\"\";72219;Little Rock;AR;US;2;Southern;2;Domestic
+0de7dee496a0addb17c511ab66b4b10772fa541410da404fe85f4135b880d751;10009652;550 Du Parc Boulevard;\"\";\"\";\"\";J0E 2L0;Valcourt;QU;CA;0;Canada;1;International
+fe981a959f769a368e91a9e2347cbff09c1007dc1512dded8c4e6d5d9803b9f9;10026038;"";"";"";"";"";"";"";"";5;International;1;International
+c1549d037d6a57f603ac484ed3a9e8486199d63254dc61f034ad2f1a455eb516;10025034;395 Smitty Way;\"\";\"\";\"\";91720;Corona;CA;US;1;Western;2;Domestic
+0cb7d350f36f39b2bb1c52456c39be9289c610549caccabf800ed50c002226a0;10019909;500 Airport Drive;\"\";\"\";\"\";54166;Shawano;WI;US;4;Central;2;Domestic
+54e73fee4517a2805ff9d893d90a8e109452d5e7e5721d23d671216e089ad1dc;10026606;Central Accounting Service;PO Box 6005;\"\";\"\";48121;Dearborn;MI;US;4;Central;2;Domestic
+543c38ed981a45b27820452b09a50cfd364eb539326c7ce16f59644825dc3f9d;10016807;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+50a91164d79de1626389ede37a109b7a701fdda0970a6823a3408ac880b75d9d;10013332;"";"";"";"";"";"";"";"";5;International;1;International
+f2ad61ef6baf93bf0ac5894a19253fc6b3cc498d41a946362e3a44989a5d12a7;10025771;Southern Maryland 4 X 4 Inc;2588 Old Washington Road;\"\";\"\";20601;Waldorf;MD;US;3;Northeast;2;Domestic
+d13a802f86e766dda791b6852ac002fdbca8992cd84b4735fb4213ca46f1e921;10025778;1143 W 2nd Street;\"\";\"\";\"\";91766;Pomona;CA;US;1;Western;2;Domestic
+5045b3431cf2aea6e1e39e1eca47a067760ae9e23be923c6cf69d00ad2db145c;10024915;"";"";"";"";"";"";"";"";5;International;1;International
+32341589efb86d880cdbb7e454c995a445f66945422153502b01a76b160ae84b;10018129;Rue Champion;\"\";\"\";\"\";\"\";ZI 1 Ducos;"";IR;5;International;1;International
+07496641718e64a38a36ddbe70631742a41aa0d317bacb31ade83980a40feab8;10009639;Industriestrasse 17;8910 Affoltern AA;\"\";\"\";\"\";Industriestrasse 17;"";UK;5;International;1;International
+07bd9b00658c49d109609fcc3734e13901881476e36fa1abd482b58be1858ece;10010887;9605 56th Avenue;\"\";\"\";\"\";T6E 0B2;Edmonton;AB;CA;0;Canada;1;International
+01b0d214bb00090c87d066ae659681391cd9ddeedc966a041bff10ee961b62fc;10020281;"";"";"";"";"";"";"";"";5;International;1;International
+65a67923e454e9fb84859e6c780dc87596368b42e77845e1bdc88904d156e401;10019469;"";"";"";"";"";"";"";"";5;International;1;International
+e2d156f1c137cb965d567adc11c4a00fc88b5506839c478040a92d0ac5a317a5;10023241;7700 Counts Massie Road;\"\";\"\";\"\";72113;North Little Rock;AR;US;2;Southern;2;Domestic
+0087020c133a313fd24009d65ec7b8124964c924b29faf01112635f4d67bf1a6;10011623;"";"";"";"";"";"";"";"";5;International;1;International
+96a05bb35a8d32ba7586e202dcb57d0cc88a6534f07855bb07b047c0726b898f;10026294;"";"";"";"";"";"";"";"";5;International;1;International
+4304d6548bf66e5ab59c596ff9c16668773ed05c5a539cb9e569c6f0ed72bed8;10009907;PO Box 2143;\"\";\"\";\"\";42702-2143;Elizabethtown;KY;US;2;Southern;2;Domestic
+4615b962a4bb34225dcd6853ea6a924087b039311114531323eca7ab53d4a2fa;10011052;"";"";"";"";"";"";"";"";5;International;1;International
+223bf479e63393416b45ec44da74931a28a87944df4d29f23dc759e0c7dc8306;10007120;DBA Pronto Jobbers Warehouse;PO Box 409;\"\";\"\";83440;Rexburg;ID;US;1;Western;2;Domestic
+b8fcf2ac922d3c57183deac91f9f572e6f54ac7e4c2cbbef81c3ad66d3fd5e73;10021986;S&PD-Special Accounts Sales;PO Box 537940;\"\";\"\";48153-7940;Livonia;MI;US;4;Central;2;Domestic
+a4e593e323721154353a4ea3e4605981bfc4907d3321a93ed9c0bcb786b85d67;10020931;PO Box 549;\"\";\"\";\"\";59715;Bozeman;MT;US;1;Western;2;Domestic
+b39f855f44d9de1937a151cc53d73b2a0d39a84ed114a6c7dd69e3c0d89fb49a;10026581;PO Box 22249;\"\";\"\";\"\";31403;Savannah;GA;US;2;Southern;2;Domestic
+7f42b07fbd67eff22ab4c918b45ac2e9fc05e98d5152492657f63a15db7ea745;10019879;3564 Buford Highway;\"\";\"\";\"\";30096;Duluth;GA;US;2;Southern;2;Domestic
+8e12b3784a39a987cd69d3464c9c789d1407ac709dad9edace12195cac05ce8f;10013188;PO Box 36409;\"\";\"\";\"\";28236;Charlotte;NC;US;2;Southern;2;Domestic
+2f2e10d695106bbca51236e4e60a9eb124a6622e839e703fecc23e35d0f868bc;10026522;4353 W 1900 N-48;\"\";\"\";\"\";46928;Fairmount;IN;US;4;Central;2;Domestic
+195d1683759f0a3c278d0eb31a34af4d9ff0309f64379af540ba2f68e60ade8e;10027053;PO Box 68;\"\";\"\";\"\";62977-0068;Raleigh;IL;US;4;Central;2;Domestic
+b99bd40007ee8a32e77a340806383ea67c3d37dc81d891d7eef7459e9755126e;10023447;Attention:  Accounts Payable;1624 North 71st East Avenue;\"\";\"\";74115;Tulsa;OK;US;2;Southern;2;Domestic
+fc9e02be166de2f2cb4552756fcac8a47fddc652b2219cf7e4f5e1bfdeb86499;10012885;"";"";"";"";"";"";"";"";5;International;1;International
+1d3f81818c0a45d1206188c5eb7a49ca073445bd53609c0c0a28e542b1275d0d;10019410;6710 76 Avenue;\"\";\"\";\"\";T6B 0A8;Edmonton;AB;CA;0;Canada;1;International
+1fdcc7fe3561cbcb8b381d5ea11d90a4a3a6e7ff2e99b0a034d9667c1e494b9b;10005099;"";"";"";"";"";"";"";"";5;International;1;International
+20a315965b007da8fb61c7793cc64c801a05abb597d689d01ee4fa3353ad4289;10014238;S Gravendam Seweg 53;\"\";\"\";\"\";\"\";2215 TC Voorhout;"";IR;5;International;1;International
+2d470e1b305f93889c34b4e2ef515c0085a6574ad7d65203f8668701f22ad9ae;10022167;PO Box 10361;\"\";\"\";\"\";\"\";Georgetown;"";AU;5;International;1;International
+739b2a91f1ad98752bc536a3630d680e4056baa773b61753322769736d36ed67;10025158;"";"";"";"";"";"";"";"";5;International;1;International
+c2da072014d98f13ccdbd21e5b15e1b3649b1dc8a707a194524c3c77f29ba39c;10017638;Advance Auto Parts;Attn  Merchandise Accts. Payable;P.O. Box 2710;\"\";24001;Roanoke;VA;US;3;Northeast;2;Domestic
+1523ea767aad6f19b2194b89d3ac2ebdc2e0b2b8900dd99100ce5fd405836810;10022470;Attention: Linda;100 Business Center Drive;\"\";\"\";32176;Ormond Beach;FL;US;2;Southern;2;Domestic
+345920a296a57eb47a7a487fc67b4c8d024d78d318c3d231ae5baee5168885ab;10021470;815 Hellam Street;\"\";\"\";\"\";17368;Wrightsville;PA;US;3;Northeast;2;Domestic
+9132889e58df0b4750bdc878876c817de34bb4927dab698980ecb2bfa9808fa1;10017307;10401 Boul Parkway;\"\";\"\";\"\";H1V 1R4;Anjou;QU;CA;0;Canada;1;International
+3246e6e61a9906b61eb1f6acdcdf9057d722a5d7a6b9a3142672dafd253313db;10012157;"";"";"";"";"";"";"";"";5;International;1;International
+b820d20bb6d87c97305b378d9ebbf8e20a74275273e78a37ec91b594b62159c7;10024524;PO Box 511;\"\";\"\";\"\";50659;New Hampton;IA;US;4;Central;2;Domestic
+69971d8d358a8f70425ce7cec5915c17c17c30cc9dad9194dea891ebe976acef;10011997;2177 Dale Avenue SE;\"\";\"\";\"\";24013;Roanoke;VA;US;3;Northeast;2;Domestic
+f2233ebcf5c13e07efacc2d37f85279b8c60d166f5d28aebb1dbfeb99b6cc2d5;10009656;PO Box 450;\"\";\"\";\"\";96091;Trinity Center;CA;US;1;Western;2;Domestic
+4ddcf86df6a91ed16c13aa2eae792c37df99d04cfa39deedf6936637b7a4f5e6;10009650;Plaza Venezuela 1413-1425;\"\";\"\";\"\";\"\";La Paz;"";UK;5;International;1;International
+03f7d2e5e2b8d332f53c88d419552481c3695ed87584ea377d76209ec31d65b3;10009697;4455 Dardanelle Drive;\"\";\"\";\"\";32808;Orlando;FL;US;2;Southern;2;Domestic
+b1fd713bc566e04eb0583a9e5383dff1555990dd287d30bd5af40abc222d5f71;10005688;"";"";"";"";"";"";"";"";5;International;1;International
+6de8272a1cd4f9897eabd130110e28ef7f9294f354c4432ea73ec5729390956a;10015011;Svarvarvagen 14;\"\";\"\";\"\";\"\";SE-132 28 Saltsjo-Boo;"";AU;5;International;1;International
+b8c5b78a7db0e603fbddb7579cc175d17ef7845e03e2a18bf8dee02f818bf7cd;10016334;Attention Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+e8fe520e1b7393a5c02ab3b31d473b4733c217d701cfcc54fb1a6233a805914e;10026055;5100 Highway 93 South;\"\";\"\";\"\";54701;Eau Claire;WI;US;4;Central;2;Domestic
+89cf7b6070754e0d896b75764f13c1bfacacb89af9fdea06da530072dca76ad7;10002161;"";"";"";"";"";"";"";"";5;International;1;International
+b5bed7c857cafc9852aacad57490a5e67b8bada431179b3df2e6e9a6f30ada88;10024010;Attention:  Accounts Payable;300 East Norway Avenue;\"\";\"\";57301-7064;Mitchell;SD;US;4;Central;2;Domestic
+64d018e6ef6c89e0091fc395896a82ff87cf0c0c02d141d2ef847715ebf935bf;10019897;7210 Gateway East;\"\";\"\";\"\";79915;El Paso;TX;US;2;Southern;2;Domestic
+fc9f6c4e2a80426a1d284aabfd63552468cdc960cc00b3cf12b37138909bd49a;10009631;1477 Davril Circle;\"\";\"\";\"\";92880;Corona;CA;US;1;Western;2;Domestic
+1006666ef7e794e5ab8a578c67004147809288c2d0d8911bd1265d15a02d9b4c;10010912;PO Box 849;\"\";\"\";\"\";72902-0849;Fort Smith;AR;US;2;Southern;2;Domestic
+d7b80febabfc48e793b5f80baa1870263c2f1490d1e497927ec4d89e2e5e36e8;10020662;Kelapa Gading Kirana;Blok H13 Number 30-31;\"\";\"\";\"\";Jakarta Utara;"";AU;5;International;1;International
+41326603870224a410859f1a4e7d985aae036365eb2685387abbe5a63f0a7623;10021222;14296 South Pony Express Road;\"\";\"\";\"\";84065;Buffdale;UT;US;1;Western;2;Domestic
+b82b181c5d59de8f1106317c0ae4ed95f243ad87cce8bad5c3a08d891747d6a0;10007355;3601 Amarillo Boulevard East;\"\";\"\";\"\";79107;Amarillo;TX;US;2;Southern;2;Domestic
+0a21c055ac362d8f43de545225b467803a3a7f1ea851f6f7dabf33a334713cf1;10007134;"";"";"";"";"";"";"";"";5;International;1;International
+3f36b6d7888c6575370c6fdde5bc6da54f56f9a74e081be13b195c9fcd59cafe;10014739;Division of Parkhurst;15051 E Admiral Place;\"\";\"\";74116;Tulsa;OK;US;2;Southern;2;Domestic
+5c83aad304a1c7100148e8852055c5e91a3638be0f293e578b7f36c246d2a9c0;10013871;"";"";"";"";"";"";"";"";5;International;1;International
+c7eae16d6d526fc10b872593572248778e4d9228268c83aa7e063eeb32816e0d;10006977;"";"";"";"";"";"";"";"";5;International;1;International
+251aa61449ddca8a8a62a2fdc84fd05a34da896307c6f7185d0ddb3624c03cc2;10019194;"";"";"";"";"";"";"";"";5;International;1;International
+198e8375ea696191407d11a1f4476c396d7eabc974e574a27b7ce0374024bac9;10005810;"";"";"";"";"";"";"";"";5;International;1;International
+3680d972d3a0f6f80c725a7622f0abf88e61166a2b59a076e5a3546c8b5b2e32;10019678;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+5f6c57b991cad573d8cd64558aa2bc404133215c5135f1d39397c86ca5c52667;10025552;Order Processing Group;25140 Lahser Road Suite 282;\"\";\"\";48034;Southfield;MI;US;4;Central;2;Domestic
+c9a41d2d0c135d19e2e64b3a7fc6862c2ad4ba6cc33791c165104cf5c31262ef;10023513;640 N Eldorado Street;\"\";\"\";\"\";95205;Stockton;CA;US;1;Western;2;Domestic
+601a52eea75bbd3674440c94587cc88a5b902e1a502ba796a7a3d30fccb933ac;10002153;"";"";"";"";"";"";"";"";5;International;1;International
+326ab92312def6bc5f85afc02e5fe46033832feba0bccccf95048e890e0c44d7;10024880;"";"";"";"";"";"";"";"";5;International;1;International
+c0c4af325a935b3cdf9bf65e38544cd6d7b856ff876ad43044299b374ec01339;10020982;"";"";"";"";"";"";"";"";5;International;1;International
+ef0052cc64b85f13cc5c2b096e1f4bfe9e3274e71f0aa0484b7b71db61b09925;10018518;"";"";"";"";"";"";"";"";5;International;1;International
+13942ec0c1912c0385a83698dfa9044ca09792150d602240afbbae4069d4df1e;10027381;2649 R W Johnson Boulevard;\"\";\"\";\"\";98512;Tumwater;WA;US;1;Western;2;Domestic
+ab21963d3e1091b6ec4c848eb9d3dc2d2178a3f4a456d8fc77555b25f3d38239;10000473;3290 Monier Circle #100;\"\";\"\";\"\";95742;Rancho Cordova;CA;US;1;Western;2;Domestic
+0db1448a54fc45d73e75a92eb51bfa3d57bb947f085cf81cb0072c5686528c9c;10016784;PO Box 129;\"\";\"\";\"\";50574;Pocahontas;IA;US;4;Central;2;Domestic
+039181af42d3e306cb181fc6caeb8883fdc400ec16374bb75ac7b9731bbc71bd;10017553;PO Box 660;\"\";\"\";\"\";66067-3805;Ottawa;KS;US;4;Central;2;Domestic
+4b12d2d1a9d623479218a23a1491cf24111ee0c531809781c45676a5a92a76b1;10000486;"";"";"";"";"";"";"";"";5;International;1;International
+f894ef0bd01b8b3fb152b69507fdb1771e28c1085e2a43ccd67c6efcfa2182e6;10019066;"";"";"";"";"";"";"";"";5;International;1;International
+e1121369faa48b9b7c7cd432e2359337a429829a17000ad97512b0bf3e4129bf;10020907;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+73798aeea9a0bf0c072e792461179836f8f282eb1e3d5331a7ec51a5043e23f1;10003857;"";"";"";"";"";"";"";"";5;International;1;International
+0095c6c9702bc83f50e6dd89fd5d557b10848a8b81d8a1c2a6f7b1a49837bb02;10023778;PO Box 70;\"\";\"\";\"\";97123;Hillsboro;OR;US;1;Western;2;Domestic
+51d375d5614fd7abb9147fe5180ccc7ee1ce84551d50c909487992a6e52085e0;10025252;PO Box 4405;\"\";\"\";\"\";46514;Elkhart;IN;US;4;Central;2;Domestic
+2edd1589f792e66327d521c6f88c88da842ff699ed603bd0e8d8cb4b85845dc6;10021459;Memphis PDC #19;Attention   Accounts Payable;PO Box 786;\"\";38654-3703;Olive Branch;MS;US;2;Southern;2;Domestic
+72756fe8cad4c9071da7ddce54ecec341a7e5a2680c68f147f0f2f35e5dcf47c;10022252;13907 S Kostner Avenue;\"\";\"\";\"\";60445-2205;Crestwood;IL;US;4;Central;2;Domestic
+4b1e33ce68386418ae81a02413217f00ab4640a718221ae11bde349c552f1441;10023244;PO Box 899;\"\";\"\";\"\";38732-0899;Cleveland;MS;US;2;Southern;2;Domestic
+a14ea26f491ba37035c70a64eaeeec099b152e31977a4d770ec0d6ab764b8e75;10020909;Attention: Accounts Payable Department;PO Box 8844;\"\";\"\";44711-8844;Canton;OH;US;4;Central;2;Domestic
+1f8cb6b1b27097d84c43961f2299f8ff598c352298d24cda748d59669fbe9615;10002506;Attention: Doris Nielson;PO Box 26005;\"\";\"\";84126;Salt Lake City;UT;US;1;Western;2;Domestic
+8e01ae7caefacfd45c32bdb558db8c9a8f10e87c0038a94c5d444004160fa3ca;10010886;522 Montana Avenue;\"\";\"\";\"\";59923;Libby;MT;US;1;Western;2;Domestic
+aa157ae90d7200661ed2ea0dc012473ccbde805fbce8603a1d919c68a64b59c8;10023780;Av Eusebio Ayala 3321;\"\";\"\";\"\";33126-1214;Asuncion;"";UK;5;International;1;International
+c1375103093e28f92bac8703ce0c5091ad51ca907af047b7f5d791e34427bb04;10024260;PO Box 13056;\"\";\"\";\"\";99213-3056;Spokane;WA;US;1;Western;2;Domestic
+9a2a781a220dc0d24cac28bc764166e8669176ed04fe9882328c5e2220ec3cb1;10024999;RR 2 BOX 9;\"\";\"\";\"\";57422-8811;Andover;SD;US;4;Central;2;Domestic
+bffdb7f3b07d79528f4d90531a39d71701a9303122f8eaf52e5261d6a807eb7e;10007457;"";"";"";"";"";"";"";"";5;International;1;International
+ffa16eeb8e6577dc829dcb7c525fc0f1ad7c54241e967635013d50ec7feb1614;10024006;PO Box 57;\"\";\"\";\"\";44408;Columbiana;OH;US;4;Central;2;Domestic
+9efcad87eb2d90f622d644e07820613bbced5f75585bc91607486a1d27a4b9f6;10008638;301 Iddings Street;PO Box 865;\"\";\"\";16853;Milesburg;PA;US;3;Northeast;2;Domestic
+193060e04cb2858a304a3faf2275e050372f9d98756a9dac52b4f4655997b105;10014802;"";"";"";"";"";"";"";"";5;International;1;International
+782fe1bf03fc8634c10817489cdcf81a6c8a12a62d99a455a32143b8f3255d7b;10021231;PO Box 460;\"\";\"\";\"\";46540;Middlebury;IN;US;4;Central;2;Domestic
+2b0f156a578ed859a43f8d2defa8af2bf595046d92b49f2fa1103c7318999e43;10005861;"";"";"";"";"";"";"";"";5;International;1;International
+87617cbd91807b86e345b192baae375578aa7e015d5bb1a4d758a86dd4c194fe;10009679;2400 Highway 19N;\"\";\"\";\"\";39307;Meridian;MS;US;2;Southern;2;Domestic
+0f4bbe78eed872602c68581e662e222d16c7c3894b7ab8112824b2879c93300e;10027356;910 North East 4th Street;\"\";\"\";\"\";55744;Grand Rapids;MN;US;4;Central;2;Domestic
+7614c5bbc984090a896ab634c2072156241dd205c4336f5533ac059de4efaf13;10025062;731 North Beford Road;\"\";\"\";\"\";10507;Bedford Hills;NY;US;3;Northeast;2;Domestic
+1a4c794bf2d0b8c4f5a549cd1e293b454b1d612649a9f34f03a0a694eefa9b5d;10020663;540 South Rock Boulevard;\"\";\"\";\"\";89431;Sparks;NV;US;1;Western;2;Domestic
+63d64cd27ce6c45dfa6dd3e811c66a3cbfc52f8528cf92d31eb8b897b390deb5;10018877;Dagher Plast Building 17;Baizoob Area;\"\";\"\";\"\";Beirut;"";AU;5;International;1;International
+3b4171cb7c68e616106b7ce0db7c79098f0408994134bfcd13a501dd15cff2a9;10000457;"";"";"";"";"";"";"";"";5;International;1;International
+28eb92a6d18599769eae69e02817fb1b228313f26ab465a11dfdc0a50c9ee9d0;10007564;1287 US Highway 59 North;\"\";\"\";\"\";77327;Cleveland;TX;US;2;Southern;2;Domestic
+fb9c761a5bc2a8405056c48e443d8646458f66bcbc41208084a8efe93cde99e3;10013252;Dallas PDC #15;Attention  Accounts Payable;PO Box 167728;\"\";75016-7728;Irving;TX;US;2;Southern;2;Domestic
+a8a8133879fdd9f56e65947d4fbb94fed82fb77b73b15c611df3f12f64000fb0;10020364;"";"";"";"";"";"";"";"";5;International;1;International
+177b1f371696a8dad24e94d36315f0da1fda8e765315b260ef82faa084d12074;10000455;7392 Count Circle;\"\";\"\";\"\";92647;Huntington Beach;CA;US;1;Western;2;Domestic
+2a9ac28e0b27a829d72f82dc6d28ad420386d48e7b544ec73d45d42f80566498;10017314;8901 Montana Avenue;\"\";\"\";\"\";79925;El Paso;TX;US;2;Southern;2;Domestic
+e162a6851705f40cfc85a6c5d3f93b4ac115ed9a158f921a54a4080042b3cf79;10002244;Spicer Clark - Hurth Off Highway Div;1293 Glenway Drive;\"\";\"\";28625;Statesville;NC;US;2;Southern;2;Domestic
+2225a36e71e4ef33d0a02a04b96c5a73c350693ae9b218766ecab1d79c7d3e11;10025239;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+aac22ecd00c2eaee24c75e02202240326fff9e957daa78b076777d5eb03f7228;10009647;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+48ed32b835241974763ba9394cd6fe241393bc467a1d5902db556384ac8ca4f7;10023471;915 West 42nd;\"\";\"\";\"\";79764;Odessa;TX;US;2;Southern;2;Domestic
+d45598f1c17949c11b63b948dc27792f0382b5468af94d98eb90576398867ad5;10011981;PO Box 2640;\"\";\"\";\"\";59806;Missoula;MT;US;1;Western;2;Domestic
+58b45c3d9abc50404511eebcd042880a1cf9bf2d80de44ce409423fe970d57fd;10025549;PO Box 21;\"\";\"\";\"\";17256-0021;Shady Grove;PA;US;3;Northeast;2;Domestic
+4d3854df0d678b7ff426b8626e3e221197175f47a12d2f6384778e9401d9c0d2;10017585;11811 West Silver Spring Drive;\"\";\"\";\"\";53225;Milwaukie;WI;US;4;Central;2;Domestic
+6bbab82b47a252698d8994a474fcfeb46d60c3e43fd3ba58596230d251c755bd;10016303;60 Depot Street;\"\";\"\";\"\";14206;Buffalo;NY;US;3;Northeast;2;Domestic
+3c65b8e5bc1b7fa0b1978e7e0a1ede46b90eb147b136bf6ab10dcce7653b64ac;10004516;Vehicle Operations;Building 540 53G/23/1;Banbury Road;\"\";CV35 ORG;Lighthorne Warwick;"";UK;5;International;1;International
+4d4db71720148953057679300aaf7c48ca6fe5d766938853e12fc9ec14d8a50b;10000469;Attention:  Accounts Payable;7025 Ontario Street East;\"\";\"\";H1N 2B3;Montreal;QU;CA;0;Canada;1;International
+47f36b67902ade8792baa940d3fbf284cb5b0f04351bfb2191a81f0425960018;10002142;"";"";"";"";"";"";"";"";5;International;1;International
+bc02217d8c834dd56d23beacb45796914f397c1c12b497152a2e42b927f43932;10000475;5745 N Tryon Street;\"\";\"\";\"\";28213;Charlotte;NC;US;2;Southern;2;Domestic
+27a22bfbd9876eb73d4a2e5d95b556b5782241ec74547416c00274d49393439e;10014469;Accounting Department Service & Parts;PO Box 537940;\"\";\"\";48153-7940;Livonia;MI;US;4;Central;2;Domestic
+7a487cca10bbe57921c5baf07eb394ee61a644a736a332ddb415c18278e05d1c;10025583;One Industrial Complex;\"\";\"\";\"\";18240;Nesquehoning;PA;US;3;Northeast;2;Domestic
+94a0d1f14c66676a6212d8ac0f465f9ac2cc2a41547e56cb5bc83394bd6fe856;10014471;2916-21st Street Northeast;\"\";\"\";\"\";T2E 6Z2;Calgary;AB;CA;0;Canada;1;International
+decc919baf3da4a9b4a550cdfe9d87afef63aa7bd765f0d406df519f18520de5;10011600;"";"";"";"";"";"";"";"";5;International;1;International
+f706b9da1253a2d24f1bae3a0d125294c4affd04d35a90c37f86ccdb4e64de8d;10026355;1275 North 6 Mile Road;\"\";\"\";\"\";82604;Casper;WY;US;1;Western;2;Domestic
+e90f5a39ef46cc7bf0201d338382d6dd3efb897de36eddb9ffb7ff4b207bc51b;10024255;Division Of Pontiac Michigan;17575 PP-CPDC;1251 Joslyn Road Dock 4;\"\";48340-2956;Pontiac;MI;US;4;Central;2;Domestic
+91458c84ea1278bdbb04380aacaadcd1ae06805dcf7bfb71756c21ba09f08e36;10021736;"";"";"";"";"";"";"";"";5;International;1;International
+c17be19830f2f76034912e13f3d40c362aea6bb0f6346078180023d7d2d9e16b;10013080;"";"";"";"";"";"";"";"";5;International;1;International
+f21e644e48de6fda713b86a36fc088aaf7baccc86bb7c570a3485c4f5fef64de;10011398;1942 W 11th Avenue;\"\";\"\";\"\";97402-3519;Eugene;OR;US;1;Western;2;Domestic
+c12c7e5bb3fb88dbe7d62a270fe4de917a28f4edc913a9494e9912fbe4f80a7c;10007117;8F No.19 Chang Chun Road;\"\";\"\";\"\";104;Taipei;"";AU;5;International;1;International
+904db2a9761bcc7bef4173568dc45131d3d2a527a06121323090a40bcffeb3ef;10006037;7225 NW 25th Street;\"\";\"\";\"\";33122;Miami;FL;US;2;Southern;2;Domestic
+f0ef62c7f40ed793a71273240abaf718390e757a4014651f95e2948e9479a989;10025353;"";"";"";"";"";"";"";"";5;International;1;International
+11674577a56f5995da580adfa8177c2525eba5e5e3e722c7bad9d780f307924b;10000462;6311 North Lindbergh Boulevard;\"\";\"\";\"\";63042;Hazelwood;MO;US;4;Central;2;Domestic
+355e20c8d263f8626b420796bf8d2d378b2685c9e996ff26eab91c8e5b50f2d7;10022755;PO Box 86222;City Deep 2049;\"\";\"\";\"\";Johannesburg;"";AU;5;International;1;International
+570f1683adaf81de48457d125448dfaed16405404826ff0e9d52c1134b74fda6;10025302;4345 South West Boulevard;\"\";\"\";\"\";74107;Tulsa;OK;US;2;Southern;2;Domestic
+652f58fa80b44f0a2b1d6cea65ad2cfd46a07474b340d0e35912f9f0af1e86e9;10014810;Attention: Accounts Payable Department;PO Box 8844;\"\";\"\";44711-8844;Canton;OH;US;4;Central;2;Domestic
+e976f0ac02c20ec14db70dd0d0560c385a1b187b9481ff98f8b99c9067295b0b;10021158;#9 - 19257 Enterprise Way;\"\";\"\";\"\";V35-6J8;Surrey;BC;CA;0;Canada;1;International
+0de98819f57450ea6b3c0d7e9ec3f6167a1cda9135153d098418bb6506b7d711;10021804;"";"";"";"";"";"";"";"";5;International;1;International
+3c7b547d280fa523b180e965430c52851ff362c57fedabce4e6f43731b0fd15f;10020448;1155 Mackay Street;\"\";\"\";\"\";S4N 4X9;Regina;SK;CA;0;Canada;1;International
+15804359a8256d81776a1347702085079ae8e626e20e0177532c3594a75e1651;10025291;217 West 3rd Street;\"\";\"\";\"\";44622;Dover;OH;US;4;Central;2;Domestic
+6cea56e79eb824d8e0702d4b77a1db3cc1f2655186bec0c8152e1ce7b2826b73;10023511;Bellsingel 2 1119NV;\"\";\"\";\"\";\"\";Schiphol-Rijk;"";IR;5;International;1;International
+b4baf4770104f84f7ebc20757a82152c277afe634d6c1f5cd6893153f6a02357;10025305;4260 North Nevada Avenue;\"\";\"\";\"\";80907;Colorado Springs;CO;US;1;Western;2;Domestic
+9856a861d1e3fc0c472080dd5766d206816f40bdfed43fb5bd0811f7af02fc4a;10023221;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+ea9e6b5383af26c4e836bbae089ac034b514254c2c35b22a846f11de6f5693e4;10009623;2125 Whitney Avenue;\"\";\"\";\"\";70056;Gretna;LA;US;2;Southern;2;Domestic
+9c9abe1377ce82bba5611f8b6b94f7888aae5693f0a7a307a635d41ea3fbff19;10019388;1101 N College Avenue;\"\";\"\";\"\";80524;Ft Collins;CO;US;1;Western;2;Domestic
+a52bb269340d2d9e0e359586f65511ba87fe33446f3227a01360065844b6c83b;10000501;"";"";"";"";"";"";"";"";5;International;1;International
+672da7fa4bd44fea5c6e51f33a1dbc35528d072dbbb85b0e23b05b0f6a31b140;10026023;"";"";"";"";"";"";"";"";5;International;1;International
+9f9437aefe5a723b275cc947b6284e5392c44060665ca3625d906bf26f9ad8f3;10002501;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+2a6850e476f91f89f247dbc90e7a587521584b2e634dff3287f40a9503a6833f;10022168;PO Box 113;\"\";\"\";\"\";48726;Cass City;MI;US;4;Central;2;Domestic
+65966780862ed8a5a6103b70ff700fbf897003c037868618aface5b75b8678a8;10025025;2402 West Valley Highway North;\"\";\"\";\"\";98001;Auburn;WA;US;1;Western;2;Domestic
+b05d58e29268924900fa34185c940c8b2172faa5cfe7477cdc55306da3c55978;10020864;"";"";"";"";"";"";"";"";5;International;1;International
+761d13509274cc8bb56a25419f1552c8257e526fb689c6ac1247dae85e2f8902;10013127;"";"";"";"";"";"";"";"";5;International;1;International
+b55f5fe0bf6e7816ecb7ac3e1297fdde69215cad4f648c2e8bea19300b781811;10021412;13101 SE 84th ave;Suite B;\"\";\"\";97015-9733;Clackamas;OR;US;1;Western;2;Domestic
+e474d61d277f7b554ffd11731e15e52694f4b17fcfc00f762b70e9b5e5806687;10020332;"";"";"";"";"";"";"";"";5;International;1;International
+790b66eaeaa27abd78b04a48db5dadbddf9ea69469facb6f2b082587e516f2b9;10002139;"";"";"";"";"";"";"";"";5;International;1;International
+ae1600d963beec3780fa01597fecbcb3bf1bb62f24bbe38cac1fe829b3d76630;10021911;PO Box 2187;\"\";\"\";\"\";38803-2187;Tupelo;MS;US;2;Southern;2;Domestic
+ba8684457b482b323339f70bc089352a72c2a8b170abf4d4bbb80fd0e656949d;10024022;9950 Jeronimo Road;Attention: Sohaila;\"\";\"\";92618;Irvine;CA;US;1;Western;2;Domestic
+76cd31d028ce675267d49fce1f37e2734638d2cf2969266754769c0cccb564c3;10027119;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+5ca68b9a133f4ffe08b52bf1de4ba243b93e0b5707f57ce9c380b977d382b245;10025022;Bromley St Lye Stourbridge;\"\";\"\";\"\";DY9 8HS;West Midlands;"";UK;5;International;1;International
+555e1ccd7c8ee250b69676dff874aae5be28b3330e99cc07c8be05fb7e779513;10010882;"";"";"";"";"";"";"";"";5;International;1;International
+15f96581a0b86f42c4a84417bb03bfa43a889cdcf6abe7288f61fcb4f5e9b171;10014495;12900 SE Capps Road;\"\";\"\";\"\";97015;Clackamas;OR;US;1;Western;2;Domestic
+eebf0273c4d3d391b69de165a485e733f1254c1e051361ccbe6a03a096c0fdc0;10011870;"";"";"";"";"";"";"";"";5;International;1;International
+2072e2d8ca0c13e44816e92c7c4d8c4a282551e441b3d44957727e49b09a7304;10025061;PO Box 80509;\"\";\"\";\"\";44708;Canton;OH;US;4;Central;2;Domestic
+cd6f510fb4d5e9f669b2eaba7f730b7eeb1a5f87bd3fbc72bc09990ff35db241;10025359;"";"";"";"";"";"";"";"";5;International;1;International
+65e64ca6df26278249ef8f4fc8232769bc2ee6b3135659bf318d827248e12530;10025296;666  South Thompson Road;\"\";\"\";\"\";53590-2553;Sun Prairie;WI;US;4;Central;2;Domestic
+d0b2fe3811e68bc0b6088332fc5266866a2ede12b64bc9f91f9ecddd3fcb94e1;10006805;1801 NW 82nd Ave;\"\";\"\";\"\";33126;Miami;FL;US;2;Southern;2;Domestic
+609dc9ec4b7c023f19fc00e4d5781be846191034009460aca251c7bfc7016b39;10006919;"";"";"";"";"";"";"";"";5;International;1;International
+d712762a09ca2ed497d2868963173a97a47e70839ef669193411a2ee5e3aa267;10013572;"";"";"";"";"";"";"";"";5;International;1;International
+de27631e3fcf483aab7bf6a82da17836b5cf8296395af37fc33680d4b1caea6f;10007258;"";"";"";"";"";"";"";"";5;International;1;International
+2f21a0f90258bbc8ce0a37acb5c788b3ba60534ab7f6b2b4f13169ebc8359369;10011089;"";"";"";"";"";"";"";"";5;International;1;International
+57d1b59ed2f4a755ba9b45cb1e704bce6801ddd0407c62b7d80146400566a005;10002520;"";"";"";"";"";"";"";"";5;International;1;International
+f3ea7ad80d8c7176d47d2502f4005185e34c147bbea1704451e9d259b974430a;10011360;"";"";"";"";"";"";"";"";5;International;1;International
+a27bda514a835a4e0f4e5f91a98ddf6da72b6a915096339ed2567fd4746abd78;10025575;PO Box 640;\"\";\"\";\"\";L0R 1B0;Beamsville;ON;CA;0;Canada;1;International
+78989592bcce3becd2ea3d66052d24f06bfd9a03a97499e4496808bc9557eede;10017036;580 Yankee Doodle Rd Ste 1200;\"\";\"\";\"\";55121;Eagan;MN;US;4;Central;2;Domestic
+7f7ba04ecd606391417e1e5b9b4d3b1a09b98363128b1fe1a5cb358d833fe9ce;10025248;730 North Central;\"\";\"\";\"\";98032;Kent;WA;US;1;Western;2;Domestic
+106e14faf09690378ec0bd92ad29f3e994a17636a079ae0c15f8ca6f9ec07623;10000480;Attention: Accounts Payable;PO Box 21502;\"\";\"\";85036-1502;Phoenix;AZ;US;1;Western;2;Domestic
+8f512896d222750bebcfefb176a62046133d15c8b6fd1ab943c1648563992b10;10023783;PO Box 7647;\"\";\"\";\"\";71611-7647;Pine Bluff;AR;US;2;Southern;2;Domestic
+7d2ed55090030b08407e6761558067da0bb9914cac9680dda02a3d8978f3b9f3;10022183;1760 C Airport Road;\"\";\"\";\"\";80424;Breckenridge;CO;US;1;Western;2;Domestic
+ab53f01f5a9bfd23e3f0b3859523e7e7baacb697f4e64fb2d9f1344e3abc6f62;10020388;7216 Ritchie Highway;\"\";\"\";\"\";21061;Glen Burnie;MD;US;3;Northeast;2;Domestic
+98a89e1a64fd18793f0a8651694e20fc8c2b592d3dbc8132d5abf68b0934662e;10000496;"";"";"";"";"";"";"";"";5;International;1;International
+b793411761360d57db6e5649a0185330d8e9d417b28364a568abc3dded7adbcf;10012128;"";"";"";"";"";"";"";"";5;International;1;International
+6dd445884b75c22bc2744ec2a3f5041157a560dd07e61b0ffee40b5b309ae0eb;10021494;"";"";"";"";"";"";"";"";5;International;1;International
+2112482aaa97a8a51d6397dfa4685bd5a7685cd567eadc39a21a64e47a9d4b34;10009657;12 Lexington Street;\"\";\"\";\"\";4240;Lewiston;ME;US;3;Northeast;2;Domestic
+b223e770bd86d1f78943b8e2f2bccb4226a05bf6480defdc36b8b1b5f1ff906f;10021107;"";"";"";"";"";"";"";"";5;International;1;International
+08e8be536d1bcbbde2d782ad26b449ef1882a035ff0216a5d72193fa7216a02a;10021936;7779 Dixie Highway;\"\";\"\";\"\";40258;Louisville;KY;US;2;Southern;2;Domestic
+18e04e388eab97654531612dc3dbe89c4e64f56d630005f0b93e1bebd9924cfc;10026268;Unit 403 - 17665 - 66A Avenue;\"\";\"\";\"\";V3S-2A7;Surrey;BC;CA;0;Canada;1;International
+bd8135643db2848d0914bc6229a4d17502832ce0ca3a2be8460e9f2444bc92d6;10002746;1200 North Ellis Street;\"\";\"\";\"\";60106-1119;Bensonville;IL;US;4;Central;2;Domestic
+e65e4e62831cf04c18141e93862e5d4c09ded48db67758f3647c4652b347b8f4;10025737;"";"";"";"";"";"";"";"";5;International;1;International
+0cc4837d16773ee4813df7aecd1d81b1ae786b2bb52d7050d3f12de73d615882;10002220;1594 Nicholson Street;\"\";\"\";\"\";V2N 1V6;Prince George;BC;CA;0;Canada;1;International
+c7d2d683b821a20f8248adbec6388fafedd609dfb1c3021268b74978aea63b5c;10015886;"";"";"";"";"";"";"";"";5;International;1;International
+f362230de7a2eb92f61739a6866702f2a42628728c98c9fa6a73f4cc1db81496;10020080;"";"";"";"";"";"";"";"";5;International;1;International
+5a43bd65c7e0a4764473c16abb0b9a73aafe8dace13b3b7ffb5675aecc97ac7c;10020927;One Cabela Drive;Attention: Accounts Payable;\"\";\"\";69160;Sidney;NE;US;4;Central;2;Domestic
+5e97a2186f5be531095093f852d6f8ea789716834a447edb1d541ab73796d8aa;10027082;9111 41 Avenue;\"\";\"\";\"\";T6E 5V2;Edmonton;AB;CA;0;Canada;1;International
+0f587e159c4297641b130599c8348c7638c0fe64746f35c1535d57515d61b62f;10024270;PO Box 1010;\"\";\"\";\"\";95955;Maxwell;CA;US;1;Western;2;Domestic
+d4c7a188101e66f36e6d12a762b4594b3e03de629a6d5d4dbcb3abf18585bdad;10018868;PO Box 871 Safat;\"\";\"\";\"\";\"\";\"\";"";AU;5;International;1;International
+207205292fe418385d5fb6000dc3e4f9205ce4884d7481134e179d66b3239e41;10002969;12000 Balls Ford Road;\"\";\"\";\"\";20109;Manassas;VA;US;3;Northeast;2;Domestic
+b53fe3b33f58fd4129afeb8183ba7fed99c904811c0eddc808fa687eec750a96;10021485;FOB: Clackamas;Attention: Accounts Payable Department;PO Box 47700;\"\";55340-0700;Hamel;MN;US;4;Central;2;Domestic
+68a84e1630ef4389234fba77e2591b129ee4980b68444f4f152cf3dee757056b;10010923;231 Yangjae Dong;\"\";\"\";\"\";137-938;Seocho-GU;"";AU;5;International;1;International
+1e87f87b367c646c808dec9ae746d2422d6c780f1762d48ccddf1f001b69502d;10001818;"";"";"";"";"";"";"";"";5;International;1;International
+264a4f493cc31c99fd4bbbe62922e8c2f078ee892bb7cf87cf9e7e15ca2e1b1d;10004256;PO Box 20505;\"\";\"\";\"\";97294;Portland;OR;US;1;Western;2;Domestic
+422d6be7a201b0cab638f7dbf63b0c43ea7abe5683d7b52563657cd932cc6883;10002136;"";"";"";"";"";"";"";"";5;International;1;International
+eb370426c9f3c5630d4b1bbc521f102d566c6d37c1278402bfef253730800971;10009985;PO Drawer 40;\"\";\"\";\"\";84084;West Jordan;UT;US;1;Western;2;Domestic
+cf0792b501f6a4d752f2d75e190e30d2194ea2fd9d5547d88007579fdf5ac684;10003882;"";"";"";"";"";"";"";"";5;International;1;International
+84e528a74b13a44994ef979c903ba278006a34bd94f582934f4833ed4d068870;10016858;6590 SW Fallbrook Place;(Commercial Industrial);\"\";\"\";97008;Beaverton;OR;US;1;Western;2;Domestic
+551114432f50b8c093808b5c05d153762b7737904067a9b3a56bc29346d03615;10024009;PO Box 582510;\"\";\"\";\"\";74158-2510;Tulsa;OK;US;2;Southern;2;Domestic
+262e04a477a4d99f63146d95cd5549531034837e890d5a68c7abccbe15ed0ff6;10009669;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+bc858b594fe50dd5283ab2c9e65e8f18807538c56180a97dd0431f17f0f9f055;10025021;1151 W Main;\"\";\"\";\"\";54115;Depere;WI;US;4;Central;2;Domestic
+c7135226de41eaf0f0d14b98e8c88ef0ccf0879afd06f0efa862d6f261b7a4c5;10027572;2210 Bowen Road;\"\";\"\";\"\";14059;Elma;NY;US;3;Northeast;2;Domestic
+0fa92a41962a47140819b959302247148745abec0aebb3ee2ec38e251e5d934b;10023538;Attention: Accounts Payable;4900 Alliance Gateway Freeway;\"\";\"\";76177;Fort Worth;TX;US;2;Southern;2;Domestic
+a50844bce8e373f027db38fa785a9255b9f0c73511d39affbeb465121db8086d;10007122;22015 South I-35;\"\";\"\";\"\";78610;Buda;TX;US;2;Southern;2;Domestic
+562c97594f3855ca845ec65f4a94adf1c7851e700407970b2526a8bf7121c04e;10026081;Weser Ems Strasse 2-4;\"\";\"\";\"\";D-28390;Bremen;"";UK;5;International;1;International
+82366d082fdd307b667fdb0c9b111101343acaebd4c54133708878cf5ae6387e;10025289;3631 South Bagley Avenue;\"\";\"\";\"\";93725;Fresno;CA;US;1;Western;2;Domestic
+81ece77044303427485297cf40495fbb4f73ea30b3015d165d97473bf1a42b4b;10019512;"";"";"";"";"";"";"";"";5;International;1;International
+dc7e4c5cb2c480859a291decc907da48d5630f6c597e3ea4f59a98312aac94c9;10008593;PO Box 99;\"\";\"\";\"\";62249;Highland;IL;US;4;Central;2;Domestic
+93019f82e854c39a53bb0abc68eedb1beb39e7e962eb8364a4d0b40ca129cc84;10025023;815 Circle Drive East;\"\";\"\";\"\";S7K 3S4;Saskatoon;SK;CA;0;Canada;1;International
+d3e7965c9aad87db7c2eeb774186312aa19073cc14e88f7f481dc7209b1e96cd;10007448;"";"";"";"";"";"";"";"";5;International;1;International
+61189434390ae5dc2c2441c8ccba667cd7058378a2670c53adcca2ae44f594c0;10027340;63 Bridge Street;\"\";\"\";\"\";1970;Salem;MA;US;3;Northeast;2;Domestic
+7d86973b6d58ca5dca20331a19fcc03fc9f050f3d8f67d461fb0edefdbf113d2;10014043;Rinconada De La Floresta 1137;Rinconada Del Bosque CP;\"\";\"\";44530;Guadalajara Jal Mexico;"";IR;5;International;1;International
+616a17ab6bfd9eb0dd240a76f5e015cc1e515c302161c806907df0ebe86cb0a9;10019880;New York PDC #20;Attention  Accounts Payable;PO Box 6750;\"\";08873-6750;Somerset;NJ;US;3;Northeast;2;Domestic
+fa2738949629a74934343668f7494a349e7ee00eb15d63709bac73b929c06098;10025919;801 West Artesia Boulevard;\"\";\"\";\"\";90220;Compton;CA;US;1;Western;2;Domestic
+1a562ad5d84700df0f96e0f23cd65c7c033704c15804f2121bc8930d5858896e;10025791;PO Box 667;\"\";\"\";\"\";97754;Prineville;OR;US;1;Western;2;Domestic
+4e518e9d9501c4fdd3144fc28bbeb5ec619f285d2525f5f319d89c86e4323d71;10027370;General Pardinas 112 Bis;\"\";\"\";\"\";28006;Madrid;"";UK;5;International;1;International
+12220471d025e174811fc6c85ed359307fc87578a7f97cadf8cd8f3e05d216e7;10017290;Transversal 49 No. 102-00;\"\";\"\";\"\";\"\";Bogota;"";UK;5;International;1;International
+9106b58408078a79a7f5ad5d5ec014453ab790e1819bf5e728908aaacc0cdc66;10025558;6104 Young Road;\"\";\"\";\"\";72209;Little Rock;AR;US;2;Southern;2;Domestic
+21e718b5e1b89498fbc5cb899c0c4ad6caedeb45894d23eba48f7552bb5034c4;10002526;Kadaka Road 72 a;\"\";\"\";\"\";\"\";EE 0026 Tallinn;"";UK;5;International;1;International
+ac7e4e2723680d4085fffdfe44c75b3c76b346d03e1fd780693da0d9ae6b0dc2;10000461;1391 Gay Lussac;\"\";\"\";\"\";J4B 7K1;Boucherville;QU;CA;0;Canada;1;International
+a585f084f98a3e00909a28638754365f79512d9498474815eb14d093bb77fa8e;10025418;"";"";"";"";"";"";"";"";5;International;1;International
+e322d3628ee2fd40a476e1ef55d305ce6117e707ee3812b3c2bb9048098a0b2a;10004207;"";"";"";"";"";"";"";"";5;International;1;International
+cc2ede208e6f27b83ffbc03c9f36bfc2c2cefabb8b7c68aa37959b63da556ee2;10020413;PO Box 447;\"\";\"\";\"\";73762;Okarche;OK;US;2;Southern;2;Domestic
+40a7c4e7e03d23ca1ba725950f86d4a58dbb5b7553df59e24bdf59af640fe1f6;10023023;600 South Brooks Avenue;\"\";\"\";\"\";56701;Thief River Falls;MN;US;4;Central;2;Domestic
+659e252ddb63eb6be2cbcff30b06edbcfd386beeb57d0d36e8c4b18be2191438;10026868;Aut Reg Del Centro Valencia;A Pto Cabello Dist Naguanagua;Centro Comercial;IL Portico;\"\";Valencia;"";UK;5;International;1;International
+2a86ca496d95b24e0a1ba2ed6f5014bbe5cd0183310c122b655ba9a75cd35f56;10021300;"";"";"";"";"";"";"";"";5;International;1;International
+f7fd265baeaf5febcdd0a6e6a8640adcf651a799785524779890ffb31fe0bd95;10026299;334 North Hall Street;\"\";\"\";\"\";75226;Dallas;TX;US;2;Southern;2;Domestic
+a0a0d1d2cf361156371f6e750952212e0039b2e1419ca901878c635994fea368;10018623;17 Perry Road;\"\";\"\";\"\";39440;Laurel;MS;US;2;Southern;2;Domestic
+631e75cec6894aa201b181d6ddb8dc3abd11003d7dff58d1f44f45bbaebf7bc4;10025040;6127 San Pedro Avenue;\"\";\"\";\"\";78216;San Antonio;TX;US;2;Southern;2;Domestic
+d04b83d71b278af6604b3cfccaa4f25b64b8dbc3363e3ceabdebf82dcbef6dbb;10003749;"";"";"";"";"";"";"";"";5;International;1;International
+99731649b8e106a350affed2fbd4514e01a348e91a21a5edddcebaf17291dd42;10016549;PO Box 6307;\"\";\"\";\"\";32236;Jacksonville;FL;US;2;Southern;2;Domestic
+2885972d0b2b0937f0e9622458afdf8bb8817e26132aa4e985e2874a41aff627;10020672;Brobekkveien 105;\"\";\"\";\"\";\"\";N-0598 Oslo;"";IR;5;International;1;International
+96fe14ecfbbfab63e3cbdc889e6c73ab66a97aa9fe6ef164707c7fc864bd45fd;10021240;"";"";"";"";"";"";"";"";5;International;1;International
+aeb24a29600e575d30ca098c321f66a1e8a349857496d5c9f07f08187cfaa5fa;10003720;2755 Kirila Boulevard;\"\";\"\";\"\";16148;Hermitage;PA;US;3;Northeast;2;Domestic
+5dd33df7ee1ce80d053101d3121f32f8632c61b26fa1745b4a4d6c0bf56f88ad;10019812;"";"";"";"";"";"";"";"";5;International;1;International
+6d1a820f900bf9e9f8741564e0f723598af8734cfd5572a787cf9e959019ebe1;10021418;10930 West 44th Avenue;\"\";\"\";\"\";80033;Wheatridge;CO;US;1;Western;2;Domestic
+b598b7a16c9773616d14422895d8d53a2857349430400805bced023c2450fd56;10024246;580 Waterman Avenue;\"\";\"\";\"\";2914;East Providence;RI;US;3;Northeast;2;Domestic
+9b5dd89cbeed47e195bab3a96a02122c927a1f05b8d7c3705b39640e71b1b1c3;10013472;3343 Shelby Street;\"\";\"\";\"\";46227;Indianapolis;IN;US;4;Central;2;Domestic
+6eeab2bcec7c08009620d6dd95826e64a0c110a1dd41b75abd35c305509a2fc8;10002137;"";"";"";"";"";"";"";"";5;International;1;International
+95f9867d583c49f387de79c7a18a47bc8a1dd82114dd38f21f68ea61c50d2dbc;10000472;8000 Haskell Avenue;\"\";\"\";\"\";91406;Van Nuys;CA;US;1;Western;2;Domestic
+dec1194197022aed76d37e55b535428c81a5d6e1c4d1461bfe4d36ff652f78ca;10013341;"";"";"";"";"";"";"";"";5;International;1;International
+b840d2d1efc3b5f20791a283ee3a5fe2186ce55ba426fc64b1175c9c7f5a7d16;10021242;"";"";"";"";"";"";"";"";5;International;1;International
+9b55f9b9dcc13b32c43d995c46cf4d85b2aa6f0e0305f5a6158aba3a408b1030;10012161;"";"";"";"";"";"";"";"";5;International;1;International
+024e220151588eda42e3fc83be97c25d5ebdf9ac2311a839ea6fed868167b7fe;10002709;PO Box 99;\"\";\"\";\"\";97321;Albany;OR;US;1;Western;2;Domestic
+f647f247c6d5b6aa3c4924901067c3d5284814f86bf749b11801ed957e02df3a;10001103;"";"";"";"";"";"";"";"";5;International;1;International
+cb88fcd1192c59bf16af74d913bbe2424c239e7a915551bbff78cd31f0a00135;10019150;Jacksonville PDC #21;Attention  Accounts Payable;PO Box 23017;\"\";32241-3017;Jacksonville;FL;US;2;Southern;2;Domestic
+8ff5e02bc0c9be0574bd7fa396cd81d453a48007a2fad56cbb48b767ab8b33ae;10007866;Rua Sepetiba 464;\"\";\"\";\"\";5052;Sao Paulo;"";UK;5;International;1;International
+dd4f63a0c8bbb3462b1a3749e3695a72a173f5d5e6821743041bec77d4e50311;10024930;"";"";"";"";"";"";"";"";5;International;1;International
+1ca88d1e4e266452c3a318953fe81afbbf6adaf901102f6b28c0c9be1fec2513;10021145;1127 South First Street NE;\"\";\"\";\"\";39601;Brookhaven;MS;US;2;Southern;2;Domestic
+a2d84ef5f05ca764deef894ec5a4067024003a6b4146ce6ad6cc8d9c2814bccb;10025267;"";"";"";"";"";"";"";"";5;International;1;International
+baa5b7663c31936ec991ae6fd72326a65452be040decf3112df382a6a4c1dde2;10015789;PO Box 14311;\"\";\"\";\"\";21424;Jeddah;"";AU;5;International;1;International
+77ec36e825c8a4ebc95314eb3e515f8d688fa610961dd10ab6583dfe160b3d87;10008134;23308 Airpark Drive;\"\";\"\";\"\";23803;Petersburg;VA;US;3;Northeast;2;Domestic
+e7f12cf2affe8a4a4c4fa6d951a099b233afbf36a89a6c36f130f90ba49cbbe2;10013238;PO Box 5222;\"\";\"\";\"\";53547-5222;Janesville;WI;US;4;Central;2;Domestic
+7832c1bee134de33b30af82bb7143cf73fe44424173367e06140148bc50faf32;10024016;1-16-33 Kotsubo Zushi;\"\";\"\";\"\";249-0008;Kanagawa;"";AU;5;International;1;International
+c740f8d4461c172058f81bb844dc2cb17a45a10d18cdc07474b23985087e29c8;10022678;PO Box 24217;\"\";\"\";\"\";23224;Richmond;VA;US;3;Northeast;2;Domestic
+982dadece935b187c26acde020e533397f3f34859c10476bf3f073cacc3f0a3b;10010855;"";"";"";"";"";"";"";"";5;International;1;International
+734965fc6a82ee23d6dd9c0ef3b50b2985a3c340630053a218aff7f1caf7ce41;10013899;"";"";"";"";"";"";"";"";5;International;1;International
+b2899f34cf80c3aac1e761596f065735dd5260fcf44980d8441b65f8ba01cb54;10015824;PO Box 7005;\"\";\"\";\"\";46634-7005;South Bend;IN;US;4;Central;2;Domestic
+11ebdd84119b70223e49cc9d4ca978f10b82686c92679e9577e0499284ae4aa0;10002765;4760 NW 165th Street;\"\";\"\";\"\";33014;Hialeah;FL;US;2;Southern;2;Domestic
+00d16aaa45ba94fc2ad20405b3f1171fc62a4ca226b10950fa81bb59f1191dbd;10025051;1301 East 64th Avenue;\"\";\"\";\"\";99518;Anchorage;AK;US;1;Western;2;Domestic
+9f00822b6086160b426310b6f71c544778f2dbbe9567a6aa3e9aa2d4e573c30a;10008602;209 Sanford Road (Route 109);\"\";\"\";\"\";4090;Wells;ME;US;3;Northeast;2;Domestic
+74083ae4f0dcf2adf4cca25dfdcc6e537d97541a7b3f39da91ee957b5b945fa5;10005919;"";"";"";"";"";"";"";"";5;International;1;International
+c36f98e8d013062713658721fdb4dd2cd5f531df7ce807c16609af5d9001ff8b;10020515;"";"";"";"";"";"";"";"";5;International;1;International
+9f77b8269a61c17882635a122d8a643bae6ce2ebac3d50aeebe98f77cd0d0215;10020256;"";"";"";"";"";"";"";"";5;International;1;International
+4e553942404e10efb414d1f078fa5e7bedf23433d7a3c55fd02c5cc1be9b9e43;10027348;6501 Adamo Drive;\"\";\"\";\"\";33619;Tampa;FL;US;2;Southern;2;Domestic
+bfcd51876aec1fcbca0552ced38c9fcd473f814a611b397ba95941d970ec942f;10007183;"";"";"";"";"";"";"";"";5;International;1;International
+8467782f9e6098c65f4001c496d6429db37e968783a818f2946085176bd20edc;10025495;PO Box 100603;\"\";\"\";\"\";35210;Birmingham;AL;US;2;Southern;2;Domestic
+5545f31a99a065082ade36be6329afa733627d3cf5e43108b4f559f759ffd187;10013574;"";"";"";"";"";"";"";"";5;International;1;International
+c749870d9c42fc909149efa56f1168cc6bd988b4b2b75d64f57ddba2390f4497;10014779;PO Box 206;\"\";\"\";\"\";7022;Fairview;NJ;US;3;Northeast;2;Domestic
+a7491cdb6195a4d0ba0985899eadaa5318b34ffbda139e3ec3e0767ef8d83858;10021331;"";"";"";"";"";"";"";"";5;International;1;International
+5f2fbbf21fbcf77b3cd0057b11c9119ebd46d6dbaf63e49e4cb4ecd10e2cab67;10025269;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+44e68eee6e77d5565fadaf05201acc448817fa6ab3a7ccb09de9cfbb572579d8;10021270;"";"";"";"";"";"";"";"";5;International;1;International
+ec76afe27b31b6706e63f671d47e7f1b12ed7268fa861178804f6307a0746e4c;10022444;Detroit Technical Center;37002 Industrial Road;\"\";\"\";48150;Livonia;MI;US;4;Central;2;Domestic
+d02820c0d36b9957e78e88e513e2caf51870b46ece4ccb05dd09c4296c61f5c7;10021750;"";"";"";"";"";"";"";"";5;International;1;International
+8bab77003441b2826f7f1e857e342fe3686f643e75d54aa94fb278b67e324469;10025033;226 North 13th;\"\";\"\";\"\";59101;Billings;MT;US;1;Western;2;Domestic
+7160ffba57079bb1b85dfec4da33646f840297ba37f3223ca2a5fe9d7405a9dd;10002150;"";"";"";"";"";"";"";"";5;International;1;International
+c9c681937cb44a4bd7fb8956c42ea299c016dc6029398b4ee66efbda863dca2f;10015956;"";"";"";"";"";"";"";"";5;International;1;International
+05305267937bb01266283a5b4d5d54c980007d6ea111f3bac6a2f05c69407787;10014264;1935 S Campbell;\"\";\"\";\"\";65898;Springfield;MO;US;4;Central;2;Domestic
+25cfa6d1132316d736046c20f136c737ebca5b144cb26a495043e4646fc00439;10024499;8302 Jet Pilot;\"\";\"\";\"\";77075;Houston;TX;US;2;Southern;2;Domestic
+257ab1dd070bd63f3efef52523cae09e1f19b9b05a61947ba5f2770534fd82d2;10024942;"";"";"";"";"";"";"";"";5;International;1;International
+285536b70981cc16c162c153a8eb9ec0fd801d481aad3efbb0506c10b26b8da9;10014803;3056 Eastern Avenue SE;\"\";\"\";\"\";49508;Grand Rapids;MI;US;4;Central;2;Domestic
+8a76ce63bfc333b04aad6289f3645c18e861b59d2d0f9ea24916a4b44d6629b0;10020449;Attention: Rodrigo Yrarrazaval;Jose M Infante 2320 Nunoa;\"\";\"\";\"\";Santiago;"";UK;5;International;1;International
+ffd837bf3a5c90d02be4cff54f0c7420f3379ee509d38154810a0958eed7ab7c;10011093;"";"";"";"";"";"";"";"";5;International;1;International
+0204f29cc0896b478c768d2405e986e23dcf8606b12e85bf45f24421464b8f5d;10014546;Division of Western Truck Sales Inc;3530 East Washington Street;\"\";\"\";85034;Phoenix;AZ;US;1;Western;2;Domestic
+8773b1a8ee4fbdf00f957eba294f3feb7740ac55fa515692d8c306ec0e198cdc;10006836;AV 6 DE DICIEMBRE;N47225 Y Samuel Fritz;\"\";\"\";\"\";Quito;"";UK;5;International;1;International
+661a356710406892c919d423be62b5cdd4e355221b13d1a8224f3ce8cf5b6112;10016113;"";"";"";"";"";"";"";"";5;International;1;International
+69f3ba2482f564be7491910bea08618305191952cada68ab3a203a1cd0474d87;10005006;601 East Gowen Road;\"\";\"\";\"\";83716;Boise;ID;US;1;Western;2;Domestic
+6c4634c2c1b54e7146440523465ed473bf3f0a52c0048c4894af34bfd9289bc4;10004255;3F Shinwoo Building;195-12 Poi-Dong Kangnam-KU;\"\";\"\";135-260;Seoul;"";AU;5;International;1;International
+1b027ce079cd389be8f91a5131bfdd6e8b143e168fb030b7c82cf31f9c73b976;10013232;PO Box 250825;\"\";\"\";\"\";53225;Milwaukie;WI;US;4;Central;2;Domestic
+31690f69a72675a9eaeeff731fd96516e9530c0d4c912d5843c47c2542d8e055;10011355;"";"";"";"";"";"";"";"";5;International;1;International
+eb2ad13dd181742733d9f9d1967148e1030e9e9df4744fab624e1ad7b338dc84;10004245;4747 N Channel Ave;\"\";\"\";\"\";97208-3591;Portland;OR;US;1;Western;2;Domestic
+dd2ea99c1f3b89d317d967daa3431b980be8190852a0bb73bad7ca735a3ee6b1;10018580;PO Box 790;\"\";\"\";\"\";77704;Beaumont;TX;US;2;Southern;2;Domestic
+999573b047c57db533a57c5e315cc4f578cf2164390fc43584fecf1b2574aef2;10013426;"";"";"";"";"";"";"";"";5;International;1;International
+95b70a5f1be43ec725088baae0b4efcab9d759742e0a0ffaf042d4fa4a1d3347;10025251;A Scott Fetzer Company;3201 West Old Lincoln Way;\"\";\"\";44691;Wooster;OH;US;4;Central;2;Domestic
+78788efce2a6c864f588f923ba604f4dd5fdf62e8283e34c70b59d029a9ee29e;10018665;1028 Saunders Lane;\"\";\"\";\"\";19380;Wester Chester;PA;US;3;Northeast;2;Domestic
+7392d3b96e4be8384e29ae6fc4513b7e6469f0774977874c4b87e99e62caf04a;10022450;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+36391036e3bbc47c76a78a1267dbe9f5bb20d92eec34c6471ebb5e2c7dd75020;10019900;3248 Auburn Boulevard;\"\";\"\";\"\";95821;Sacramento;CA;US;1;Western;2;Domestic
+a1464b11397d5fcf1efac5a0e8aab4db97b44f564f1138ace27b68ec2ffe5054;10002159;"";"";"";"";"";"";"";"";5;International;1;International
+051532d3b22d5050cb4db1068b0c5f5f1d5c521f6923e66c64ebd1bd7d04f79b;10027583;Attention: Charlene Hoyer;500 North Morton Avenue;PO Box 474;\"\";61550-0474;Morton;IL;US;4;Central;2;Domestic
+cafcc5fb4f53c23ddc0f74412f6224a75f2911068ed38d980a3628b78d4f38ea;10023022;18412 96 Avenue;\"\";\"\";\"\";V4N 3P8;Surrey;BC;CA;0;Canada;1;International
+ff2e2ee7870c70674ea5d40bd5751af4f176a9543109a81c677c8cd9606105cd;10003795;PO Box 2484;\"\";\"\";\"\";70815;Baton Rouge;LA;US;2;Southern;2;Domestic
+831920f5754e83fc02431e6b38bcfec942bf699df0ae5aa859d9f7a69a17c287;10023495;"";"";"";"";"";"";"";"";5;International;1;International
+ac473b95da88e7456de34e320c266a72fe175934e190a6cf6ff31275ea93f08a;10004302;9555 Airline Highway;\"\";\"\";\"\";70815;Baton Rouge;LA;US;2;Southern;2;Domestic
+e92b68003535fbbabf47f14bf620bce46112a22adacb3d4fa82e1fa57d69bc9f;10012422;PO Box 510;\"\";\"\";\"\";35137;Saginaw;AL;US;2;Southern;2;Domestic
+7cff25e55deb7a903b192fd4edd33a77791b9e36ae920622c9ac2b925b49b16c;10020849;"";"";"";"";"";"";"";"";5;International;1;International
+3fdb18a7adab58b2a6a8bb75734624f764bf7829120d0dafd47afbbe33885a53;10010832;"";"";"";"";"";"";"";"";5;International;1;International
+b2b9af7a2a59439546f593fd353b3d46fbca918d9cfd60c052e40c5390771972;10025288;Kirchstrasse 39;FL 9490 Vaduz;\"\";\"\";\"\";Furstentum;"";AU;5;International;1;International
+4796faa261dd919103e4dcd30b36edaef21d6e29abf207e7eec97bda6da6a16f;10025284;19745 Meekland Avenue;\"\";\"\";\"\";94541;Hayward;CA;US;1;Western;2;Domestic
+6bac94b5971263f5422628c43dc59369be0a7aa0b98155c974a532d236c787bc;10006983;"";"";"";"";"";"";"";"";5;International;1;International
+d3868db443497725b66fc503e3fac51e12b4e9a82eafac644361872c96c3daa7;10000497;"";"";"";"";"";"";"";"";5;International;1;International
+9a85b1ea4dda7c78473922645f08cb6b50871a5df5fb65af72d54e4478458e46;10013061;"";"";"";"";"";"";"";"";5;International;1;International
+c74a16b18d3a6f34753709780dcb6eeedaf825300f40654b5cd7de9428149f64;10002114;"";"";"";"";"";"";"";"";5;International;1;International
+66d0c4d997cf7ffa41aead430edbb8085c917740f310e3198c793dda9d253ecd;10023516;2900 Northwest 73rd Street;\"\";\"\";\"\";33147;Miami;FL;US;2;Southern;2;Domestic
+a0b6c4e1a0e34856008c384b5d16bcddcbf985b4de2691bcb19aab5c9ad7e942;10010884;170 Industrial Boulevard;\"\";\"\";\"\";J4B 2X3;Boucherville;QU;CA;0;Canada;1;International
+8bbb2ecadd466028fab0f845bce0f8cac28ed2dd8a736c0e0fc561219087c05b;10022249;201 Old Boiling Springs Road;\"\";\"\";\"\";28152;Shelby;NC;US;2;Southern;2;Domestic
+f0299d2498bda3fd11783b9671e459e850392876dc567e8a7772b9843bc05a76;10010990;"";"";"";"";"";"";"";"";5;International;1;International
+56a42aade9fdd0187c42401e17706201bfe1ddf2c4dd093bd08a91ffa596a50b;10024541;Americas Body Company;PO Box 46539;\"\";\"\";44146;Bedford;OH;US;4;Central;2;Domestic
+1b84baf367ba98bd727c8fccb99d05b987f2f5348a936ceabe597bc4f40d3f94;10013397;"";"";"";"";"";"";"";"";5;International;1;International
+936a774f7b212d162cc25a9cc177fa89b6e09ae02e6ef92cab64ba255613e379;10009662;610 Garfield Avenue;\"\";\"\";\"\";19486;West Point;PA;US;3;Northeast;2;Domestic
+585607ead6fce3db9a90e47bc3d8db342df733b2d59dd9125281cc4337fa2a27;10000478;8120 E Doyle Springs Road;\"\";\"\";\"\";72209;Little Rock;AR;US;2;Southern;2;Domestic
+ba489e8e3716f2a16f5c3020bbb79848d45762f150b66b69c75cff860aed2668;10007309;Limited Reg Number 28388;40 Devil's Tower Road;PO Box 176;\"\";\"\";\"\";"";UK;5;International;1;International
+dca1653f091dec46f36b95170e47c37785e80c1e7be9bc4d8b7f0fb68ba8900a;10012425;RR1 Box 9;\"\";\"\";\"\";56744;Oslo;MN;US;4;Central;2;Domestic
+64081e0f6ea87e1bb5fd9b19074639ae899caeed7b9a0233ef3076f9319142b9;10025039;9049 Tyler Blvd.;\"\";\"\";\"\";44060;Mentor;OH;US;4;Central;2;Domestic
+f0eb87aee0a1f4a2af0c03f037c8b70547c889ad55b890f6c9b3be80606802e0;10014047;1510 Merced Street;\"\";\"\";\"\";93706;Fresno;CA;US;1;Western;2;Domestic
+5bfb3105445a325a752776c6437bc190a0b9e16928fd68da080750aef572b834;10022687;5325 Still Creek Road;\"\";\"\";\"\";V2X 3K6;Burnaby;BC;CA;0;Canada;1;International
+49b15a67effa25695593e9c38a887eafa129499e11c7d3852f786f462a75f90a;10011018;"";"";"";"";"";"";"";"";5;International;1;International
+1c14bd58a1bec147edfcafe8c39667a4a167b608455e96eb0e05361e920e1559;10019109;Sacramento PDC #13;Attention  Accounts Payable;PO Box 15279 C;\"\";95851-1297;Sacramento;CA;US;1;Western;2;Domestic
+629d29127415a1ba3b044a20bfedb1a613a56b914850f599eba8ba554e4dd0d1;10023275;PO Box 30659;\"\";\"\";\"\";97294;Portland;OR;US;1;Western;2;Domestic
+51a6eb1f14ef10be469c0b7a22e6b503509671c23dacd088fb027d1c9ebe2a37;10019665;7940 New Jersey Avenue;\"\";\"\";\"\";46323;Hammond;IN;US;4;Central;2;Domestic
+626e320e6ec33d3d929703338c4e8c1a5107ec4e3080fe1ec095df24117f65e6;10016564;PO Box 2338;\"\";\"\";\"\";49685;Traverse City;MI;US;4;Central;2;Domestic
+2c0185e97e0806106a20536999f46f6eab327329df8b35c94934ce7c4188b9eb;10023524;PO Box 1006;\"\";\"\";\"\";29633;Clemson;SC;US;2;Southern;2;Domestic
+9a98d0653573b31c3e4ac8836e2ba4e36a47b248372afc1777d1d90e0d390f16;10026839;1201 Sycamore Avenue;\"\";\"\";\"\";38930;Greenwood;MS;US;2;Southern;2;Domestic
+133ae8c4a9c7bc224b2e5331f20cc26deb1f4d9653c2793288f9652abf4033da;10020915;2600 West Route 120;\"\";\"\";\"\";60050;McHenry;IL;US;4;Central;2;Domestic
+3ffb19ad07e50159bd57935d4fdb783a5b0d3b8d86d0af87e533661b58ca720c;10016780;"";"";"";"";"";"";"";"";5;International;1;International
+f73542e2cd9702b5a617a872e01cf39426b17337603d5ba1aa73ecc76caa4f73;10018628;12805 SW 77th Place;\"\";\"\";\"\";97223;Tigard;OR;US;1;Western;2;Domestic
+6092459b29934e91342d13f4e46a7e86aa2fd9d3803921ac47740d471ae2c706;10009645;"";"";"";"";"";"";"";"";5;International;1;International
+16bf87bb29f8b151236bc71a0507043f7d69d6ef9168ad5726b8d17224e56561;10024743;907 Cole Street;\"\";\"\";\"\";98022;Enumclaw;WA;US;1;Western;2;Domestic
+e92e45622cedf692c75d903ba130b2803e5a8fc4c5939b5c1ffed3a51bcb7f0f;10007577;2621 State Route 57;\"\";\"\";\"\";8886;Stewartsville;NJ;US;3;Northeast;2;Domestic
+b57cd40283bb072f315da961313556a0a9ebdf17ac286d9e6a6ba84ec22ddead;10025515;3650 Bay Street;\"\";\"\";\"\";39213;Jackson;MS;US;2;Southern;2;Domestic
+1a03eeb4bba8e78a000c5471e2dd0c15aa168f1a1ac215c593c4d4dce30ff3e5;10016609;Unicity Distribution Systems;1445 Church Avenue;\"\";\"\";R2X 2X9;Winnepeg;MB;CA;0;Canada;1;International
+7fa109fae3addd335ca94759d229340d4f9e903366d4af68a68c066bf082904f;10025571;PO Box 3283;\"\";\"\";\"\";50316-0283;Des Moines;IA;US;4;Central;2;Domestic
+f6e39727a8c47baba699cca97047cfa715c7ad98a632d91ea590c778f31744cb;10007591;Hiekkakiventie 7;\"\";\"\";\"\";710;FIN 00710;"";UK;5;International;1;International
+cf1dbddbf7c952a0833bdb3e0b1dab3f3cc827d31612e78bc55255ecdbdb25db;10011724;300 Ingersoll Street;PO Box 1005;\"\";\"\";N5C 4A6;Ingersoll;ON;CA;0;Canada;1;International
+513d1ea5b796328f09bec704a53d66d187a88461eda7612bc1b948ceb17b92d4;10021911;Cnr Avalon Drv & Tasman Road;PO Box 20077;\"\";\"\";\"\";Te Rapa Hamilton;MS;US;2;Southern;2;Domestic
+37dbf250f0e74e0d7848abe482382c80db078fda648a8be397ad1b490024a9aa;10021006;"";"";"";"";"";"";"";"";5;International;1;International
+74864834c0a8eb6046e57e30a76bb248fbcb0ac396f1c3b9d9b031353f3682cf;10009885;PO Box 7100;\"\";\"\";\"\";R3C 3B3;Winnipeg;MB;CA;0;Canada;1;International
+a3d53d4a6f20475e6a2fe2ca12f90c169e3c82622a2ca8cffac3db77aff0b611;10024725;PO Box 174;\"\";\"\";\"\";75951;Jasper;TX;US;2;Southern;2;Domestic
+0ee541bd0f6ccbcb2ab0b5a57bd473dc85f251fd9cafeb1dccf8dd0449605935;10025243;PO Box 5308;\"\";\"\";\"\";75608;Longview;TX;US;2;Southern;2;Domestic
+6a09bd58f3cc868926dc29158ed6abe4dd2ef99c86420a8b5dd7447f4f926ccb;10010970;1477 E Highway 356;\"\";\"\";\"\";75060;Irving;TX;US;2;Southern;2;Domestic
+9a33eca89bf4e92637fed8f3a4b06ec790872c6afe3664dd8f8a5c3e30564bc9;10020227;"";"";"";"";"";"";"";"";5;International;1;International
+7c8b3b1ce4cea55f7f97173e30ca4138cc2743d070d3abfefeabe9a5f2cae6f3;10000474;PO Box 3265;\"\";\"\";\"\";50316;Des Moines;IA;US;4;Central;2;Domestic
+ab36d0d9fb65f3f0d9617a3ce67d2b5f9305feeec146659e87394ff1fffb9ab7;10021996;8 N Industrial Park Road;\"\";\"\";\"\";17847;Milton;PA;US;3;Northeast;2;Domestic
+022c3207234a26367beef521d0a9dd8c4701be697f5aef3c9da0b3f3f511a8ef;10009660;PO box 204658;\"\";\"\";\"\";30917-4658;Augusta;GA;US;2;Southern;2;Domestic
+720cbbcf462e59de0e46756417085d842380b94e16505ade1a1d11ef839677b3;10025300;Attention: Paul Grady;105 Montauk Highway;\"\";\"\";11796;West Sayville;NY;US;3;Northeast;2;Domestic
+31a26b047d240f56d790b3e6efaa0b0f6a6bee047b767adf5295f44ee1a516ad;10009863;PO Box 065;\"\";\"\";\"\";\"\";Beijing 100088;"";UK;5;International;1;International
+ec58a3c41c0f29d9442070316173d264481b00de5205fe6d3eb52fe6b7984d46;10022456;3340 A Sunrise Boulevard;\"\";\"\";\"\";95742-7316;Rancho Cordova;CA;US;1;Western;2;Domestic
+f7bd6e6c7c8b4bae0c8c53a9b3e81b146d1e78860408bce310d6722d978a8229;10012226;Worldwide Purchasing;1996 Technology Drive;Mail Code 483-619-114;\"\";48083;Troy;MI;US;4;Central;2;Domestic
+1a14f6b98562ee0c149610764cd2cdf701b2d92f66176240e9d62c5de3c39190;10000499;"";"";"";"";"";"";"";"";5;International;1;International
+432abf7b75d68c33886b28bf7a22827f7ed87e51ce591dfdf554afcde18468d6;10013538;"";"";"";"";"";"";"";"";5;International;1;International
+c797cddc19cbe78c432d8d90b1f58c38600b827111940cc82292bcd08a640604;10018644;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+f4ce12a77889fd64a0c08742dab1393ec40149b36e7f45dfc1ebd416c678603f;10025467;"";"";"";"";"";"";"";"";5;International;1;International
+92facb706112e6098b6c29f9e43b9f5c7c19c5f4e9365ca66295fdfc629cef5f;10023235;7600 South Santa Fe;\"\";\"\";\"\";77061;Houston;TX;US;2;Southern;2;Domestic
+a6a5f15ed9fdc07be561b5920fb86233db904e06a717a7e0c3ec3a719bdc09b8;10019514;"";"";"";"";"";"";"";"";5;International;1;International
+4f400752de88a2f4c9dd2e4b139e4c20ecc77a1026642a7e83839d0fe9a21e79;10025250;8503 Hilltop Drive;\"\";\"\";\"\";37363;Ooltewah;TN;US;2;Southern;2;Domestic
+be3966f14cbe430acfe345fd8e24e36c41c58ac318956076f5352418678d9ef9;10013765;5821 Hampton Avenue;\"\";\"\";\"\";63109;St Louis;MO;US;4;Central;2;Domestic
+0729063eaeeb7639d5cf068c57c9bd9cbd890cf587542ad47a185266074f869a;10026336;PO Box 26;\"\";\"\";\"\";29202;Columbia;SC;US;2;Southern;2;Domestic
+628b14ad8c543f0f658e1aabb527fbea07b3201048adbf3386a263a7b7f5e7e6;10021203;Los Angeles PDC #14;Attention   Accounts Payable;PO Box 5555;\"\";92626-5555;Costa Mesa;CA;US;1;Western;2;Domestic
+99cb41029dc4806fbbc30da38fbf11e7f0101e6e558f383168702b341af82fcb;10018371;Solec 44;\"\";\"\";\"\";\"\";00-394 Warsaw;"";UK;5;International;1;International
+9370a752f4f5c45417bb1ac3e80465a4652982fb55bc5a7f64909e02150b5806;10019400;861 West US Highway 30;\"\";\"\";\"\";46385;Valparaiso;IN;US;4;Central;2;Domestic
+d592e90a97b79904bb1efbfe3faac3432e5d7da07705d52d4805b796ba133102;10020492;"";"";"";"";"";"";"";"";5;International;1;International
+9d5f3246c624bca24124330333904051aed013243f2cee78ebf6240d4af6eb27;10021283;"";"";"";"";"";"";"";"";5;International;1;International
+e8859f25b5bf84f63b0ec6f540fe62d173bc4f0258ec688f5d0aa548f14854d2;10023003;400 Jay Street;\"\";\"\";\"\";49036;Coldwater;MI;US;4;Central;2;Domestic
+92f42ba6023db0578590dfaad4cdecf91b6dad928fbae709e7a1e2853c74cd04;10000471;Al Thalia Street;PO Box 11605;\"\";\"\";11443;Jeddah;"";AU;5;International;1;International
+83828bf4bfd7847a074f11d23d298e7accebdf122b0f6dfd63acaebe6f5510cb;10024248;9440 North Whitaker Road;\"\";\"\";\"\";97217;Portland;OR;US;1;Western;2;Domestic
+c5c41f04ac75c1c92a9b75ec66dd68876d821b7fb52b08b9f6312ec8360e7dfa;10012235;PO Box 1005;\"\";\"\";\"\";R3C 2W7;Winnipeg;MB;CA;0;Canada;1;International
+dcc01422bdb995bd73aec6e7457a4be524e540868963fa5104889e0419fa3611;10026438;"";"";"";"";"";"";"";"";5;International;1;International
+14e7c0635a1101ed6f6247264a7cfa9fc384b8a2e38982e359abfa593dc50ac2;10019913;10901 Macleod Trail South;\"\";\"\";\"\";T2J 4L3;Calgary;AB;CA;0;Canada;1;International
+22688309c16eb0adf7afc5ec890358ba9f68ca78e59c46e24951eb4e8831e86a;10002240;50 Mystic Avenue;\"\";\"\";\"\";2155;Medford;MA;US;3;Northeast;2;Domestic
+75f51af265243a0f401dfb01f116004a0cc3055a470ff5c46d51321d89d2e360;10018871;Field Accounting Department;PO Box 2003;\"\";\"\";48151;Livonia;MI;US;4;Central;2;Domestic
+6ec5b3140f784ba72f6add32df17257093fa619f31236e99d3f95fa32b672c13;10015253;"";"";"";"";"";"";"";"";5;International;1;International
+5985ba44654cad66436ccb958a0607441304fae42c5baefa86e74749e0415988;10013509;207 North Scott;\"\";\"\";\"\";60435;Joliet;IL;US;4;Central;2;Domestic
+0032c4769dfc48183f5414f5ea2118a3709f8c6d3ebcddb4c33976225cdb39ca;10009643;4103 Holiday Drive;\"\";\"\";\"\";48507;Flint;MI;US;4;Central;2;Domestic
+95b351d4bcf0f48ad0d05113beac7eb7be4bb65c5c1faad2f7bebd003fc8caaa;10012158;"";"";"";"";"";"";"";"";5;International;1;International
+d9ccea43fa7423babb398ecd5d2011ff34eeac96a2eb8c3c1d3316449fb58254;10012600;"";"";"";"";"";"";"";"";5;International;1;International
+86f3d8bd7332e699fcc84d86185d1c422142be3ed7243fab61852818d8ac05e7;10017828;PO Box 762;\"\";\"\";\"\";90630;Cypress;CA;US;1;Western;2;Domestic
+c5974350a4f83a82ea160800dcb3bacba4f4bae3275bc27e1b3c997ad0beaa85;10015783;Attention: Anna Markert;3111 W Allegheny Avenue;\"\";\"\";19132;Philadelphia;PA;US;3;Northeast;2;Domestic
+929703eb175b4518fd3dc7610172ea2a14717eb5ca2bb425d676706c1b9bf57a;10008381;10023 128th St. E #7;\"\";\"\";\"\";98373;Puyallup;WA;US;1;Western;2;Domestic
+adcea63033c4a3390091b980b0680c12ef9057e48c6afe24dafa6b56116cd45f;10017576;PO Box 10455;\"\";\"\";\"\";70181;New Orleans;LA;US;2;Southern;2;Domestic
+111dd9e8fd920d4bf04bde9a9418d53e607ecebd8beb66e378a18eefe6f8eedb;10027575;10400 Plano Road;\"\";\"\";\"\";75238;Dallas;TX;US;2;Southern;2;Domestic
+f28eea55dada684f0668a5cb379f8eeac7ad5d45f4bf81386499794b24cc4cda;10022746;Landstrasse 18;\"\";\"\";\"\";\"\";A 5102 Anthering;"";UK;5;International;1;International
+d91eb23d98f60a2c23ff169eb673d3ec4b8abfa39e5432f4f81c92c8a1d83a55;10023212;c/o Tom's Bronco Parts;2294 Sage Road;\"\";\"\";97501;Medford;OR;US;1;Western;2;Domestic
+adb800c1c2cdfe33dd14d3193ad5812afe4731cdb77f11e47171719d476a6e63;10025758;4532 Enterprise Drive;\"\";\"\";\"\";73128;Oklahoma City;OK;US;2;Southern;2;Domestic
+7860b00b1d546578c78dbdde19943170385f2fdc4da5a572c1b4a24b7bba18b5;10026009;2 Calle 25-80 Zona - 15 Vista;Hermosa II Local 2;\"\";\"\";\"\";\"\";"";AU;5;International;1;International
+39901b91a816bfbf744493784b4979198a08001d6a9594090abc1500890c1556;10009633;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+84897080ee625c469f899dc334b18888ba7b8532613dc4b82cb324edba6ed9e4;10006846;1023 Kansas Avenue;\"\";\"\";\"\";95351;Modesto;CA;US;1;Western;2;Domestic
+23151919c415a571fe9866a15efde0862fcbc0d9572cfce8157fbdfba1a2119b;10020266;"";"";"";"";"";"";"";"";5;International;1;International
+9524d7a5f47603b8d21c2f369061dec1ae96c250549de6467f2a2e9658a2f359;10025247;390 Fountain Street;\"\";\"\";\"\";15238;Pittsburgh;PA;US;3;Northeast;2;Domestic
+6db4bb2518102ce3813a281119c7891810cd91c594da90ebcbe9fad33efa661c;10015030;2192 Viking Drive;\"\";\"\";\"\";99501;Anchorage;AK;US;1;Western;2;Domestic
+2b8bc0243038cb6cb5a5e7186ef8589c0815e9640be03caaf9d6fd61ed0b7c1f;10009156;DBA Badlands Off Road Park;3968 North Xavier Road;\"\";\"\";47918;Attica;IN;US;4;Central;2;Domestic
+f1725795a6c8bfe928beab12fda405d77e4f8b36a9df9acf9247d4daf8912e54;10022490;Attention  Accounts Payable Department;PO Box 12990;\"\";\"\";66282-2990;Overland Park;KS;US;4;Central;2;Domestic
+64504e4a6d9039723895e813f453c4819b29a0ab4b5d889a76e3c761efb1979f;10012851;"";"";"";"";"";"";"";"";5;International;1;International
+9d681da1d782223a2e6ba4f3bfac11375766688360f6e4ec50b93d22b100e4cc;10019664;PO BOX 8808;C/O APSS;Dept. 551;\"\";61266-8808;MOLINE;IL;US;4;Central;2;Domestic
+e45c638d65139c74cc5cfca12e680e4e0f5e156ef5e6a0e151f48921b5db4cf0;10022978;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+867ab0b2eb2a499fb2e98037737ad48b79a3d4f0806a1d37fa15b5cf5fda57df;10026078;PO Box 461090;\"\";\"\";\"\";44146;Bedford;OH;US;4;Central;2;Domestic
+07a6bacb679ea57298defe15ac8fdf058e09b3cc6f33456b72b9a2502d1c37cb;10021286;"";"";"";"";"";"";"";"";5;International;1;International
+3acda51e8aacf40e8b03eebaf45d22a0dd04ebb5f548be10013215bcc7dd89d8;10020868;"";"";"";"";"";"";"";"";5;International;1;International
+8c86bbe4bc1d2841b6a8aab82f24fd37e96653e428987a1e42921330801188c5;10002155;"";"";"";"";"";"";"";"";5;International;1;International
+d947f6250d9715d3e9c7a81801b92d0ea50caad51944379aee5e2bce1aaae402;10006916;"";"";"";"";"";"";"";"";5;International;1;International
+e9edee14812fdf6e77f1ae6d84b768e625d9b1cbd4023e02b25f6ee4e3eb98e5;10025287;PO Box 366;\"\";\"\";\"\";53008;Brookfield;WI;US;4;Central;2;Domestic
+c56b4bd761122d598eb0b809f018eca6e5b995608a4b9d5c66d15eb371a1d488;10000456;8151 Wagner Road;\"\";\"\";\"\";T6E 4N6;Edmonton;AB;CA;0;Canada;1;International
+2f26cd35e8336ed91c5f5ba69e0e133f92a8898581f3d017e2f7a300f0796e58;10000601;1550 Aereli Avenue;\"\";\"\";\"\";27522;Creedmoor;NC;US;2;Southern;2;Domestic
+6aa9654ab8913a137f6af957b45a84ea470a4a3c202c2b0bf96b5a3e4400f514;10015325;"";"";"";"";"";"";"";"";5;International;1;International
+42e28362881f487920ec1ebf860ac8c4ed1983c67ce085d59d116e971df2a95b;10006862;4410 Highway 80 East;\"\";\"\";\"\";39209;Pearl;MS;US;2;Southern;2;Domestic
+e468624445ef58a71f943d0d322919b56a1bfa361c20394c19aa7fb8ec212cd7;10023964;"";"";"";"";"";"";"";"";5;International;1;International
+33802db64fe7d529ab4ec67878d634d5afae0f820999ed29ca97e9aaa2910a42;10010969;317 North Main Street;\"\";\"\";\"\";46516;Elkhart;IN;US;4;Central;2;Domestic
+a1c9974632fee3a5c2256963906892e31c38504de36bbed00e702ff7795735ba;10013052;"";"";"";"";"";"";"";"";5;International;1;International
+a6727fdad7affcfd4e6af9e044fbc4ebe989deef912ee07189cded04edee1750;10009654;904 Billy Mitchell Boulevard;\"\";\"\";\"\";78521;Brownsville;TX;US;2;Southern;2;Domestic
+eb0d0a941c4a4ce2d0b630ace8e839db1034d0a589c8925d5f83ac58248f24e6;10011732;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+340069d6f9824fb35894634be74845c62b99aefeb2b84ed67c516501f111c7c2;10013670;"";"";"";"";"";"";"";"";5;International;1;International
+d56780bdeb0d2b381703e331b0719eaf8198db110245533a4b335b48bd67e089;10002154;"";"";"";"";"";"";"";"";5;International;1;International
+5f19fcb6fd958d2ce584248b474ecbce12fde84137c063f4e19a55f7309fe8b6;10020639;PO Box 3445;\"\";\"\";\"\";74101-3445;Tulsa;OK;US;2;Southern;2;Domestic
+9ac9f03e90819d76ca1111720b0d91ad3ebc843f4a8bdf0e156cd0674bd29955;10018146;Box 1178;\"\";\"\";\"\";T0L 0Z0;Fort Macleod;AB;CA;0;Canada;1;International
+d26f7454d4e656e71cb3c01206bced13d149aa3129cb8af723eacec7160c2131;10008893;508 South First Street;\"\";\"\";\"\";98901;Yakama;WA;US;1;Western;2;Domestic
+6edaf90e67482f7ab731a7ca0d9e719cfde4a85300de5d81a033b8c12f166af6;10014804;Attention: Ann Borden;PO Box 31435;\"\";\"\";71130;Shreveport;LA;US;2;Southern;2;Domestic
+7271ebbada01cdcba4b8b4032808daaed4476c221fd07ed4ec97022dd61d70bd;10021160;"";"";"";"";"";"";"";"";5;International;1;International
+baff0ee7455be1e6e1b09eff84cd3ed02ab39f7c3e52b73b1863d5881b51c8e0;10025238;4567 Federal Boulevard;\"\";\"\";\"\";92102;San Diego;CA;US;1;Western;2;Domestic
+41ffa70e5a54329a994e0ee8421ffa530a78ca08baa11fe971f1bf3ce8064ce3;10006917;"";"";"";"";"";"";"";"";5;International;1;International
+6b2fbc4631610613821001ef8e0170b059dce2262fd7b05fad5dfa27e85dbd2e;10011734;PO Box 19858 Station N;\"\";\"\";\"\";30325-0858;Atlanta;GA;US;2;Southern;2;Domestic
+2f118d4789b55294ac06cd1137593471cbc7d5d8793170eea2f31294e1ea9c48;10021223;Michigan Truck Plant;38303 Michigan Avenue;\"\";\"\";48184;Wayne;MI;US;4;Central;2;Domestic
+68d6079a8c01c8eb30d8fe0bb776a8b20890a68a7c7f36179a44ff9a69244aaf;10011521;32722 Highway 45;\"\";\"\";\"\";38860;Okolona;MS;US;2;Southern;2;Domestic
+88ba5baa96d664cda30166a11229acdf95f1874d3e633a5b02627a3c9a3caca7;10025249;7221 Highway 64;\"\";\"\";\"\";38133;Memphis;TN;US;2;Southern;2;Domestic
+a8d84bc0811a03aae337166a5259322213d316fe110caa2ac5a91b38d18cac73;10020247;"";"";"";"";"";"";"";"";5;International;1;International
+62393d5dca906bd6abdb6e634dc67e617a8be5aba06f7e01c93aa16d3b4fb8d7;10026006;308 53 Avenue SE;\"\";\"\";\"\";T2H 0N3;Calgary;AB;CA;0;Canada;1;International
+10111167282e293b029046e53d472ff6694afb1505ad341d2cecee1e3a422ac1;10025052;150-3 Chilkei-Dong;\"\";\"\";\"\";459-050;Songtan SI;"";AU;5;International;1;International
+bb1ccf317efd6d4abe3a57e0932139472ac56bd1811b11afd00e7feb73719cb9;10025237;Central Accounting Service;PO Box 2900;\"\";\"\";L6J 5E6;Oakville;ON;CA;0;Canada;1;International
+a1b307bdc5f4f646c302033c0e8e629abfd556e19c4c6eef68051a5cd55a80fe;10006093;PO Box 5364;\"\";\"\";\"\";47716-5364;Evansville;IN;US;4;Central;2;Domestic
+92445d978c64760c8b0fb1cc3f009892423f84ab5c0ea36ca2072cfe7cb125e0;10020193;\"\";\"\";\"\";\"\";\"\";\"\";"";UK;5;International;1;International
+486a520bd3593af7fdd17997800a4d47bd40f3a50a93a7e37eb6a2ebab11204e;10011546;"";"";"";"";"";"";"";"";5;International;1;International
+13e3142c5d1f18d0afa4fbe2d710bbaded40da7152778a2f0acfaf1b49a989b0;10012328;"";"";"";"";"";"";"";"";5;International;1;International
