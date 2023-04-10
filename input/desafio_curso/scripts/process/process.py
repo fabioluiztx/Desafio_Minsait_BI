@@ -139,9 +139,9 @@ df_data = df_stage.select((df_stage.customerkey).alias("date_customer_key"),
 df_stage_final = df_data.join(df_stage, df_data.date_customer_key == df_stage.customerkey, "inner").drop('date_customer_key','newDate').dropDuplicates()
 
 
-#Criando as chaves criptografadas para as dimensões como diferencial fiz a dimensão ITEM para se preciso fazer pesquisas
-#por produtos mais vendidos para incrementar no dashboard
-df_stage_final = df_stage_final.withColumn('PK_CUSTOMER', sha2(concat_ws("", df_stage_final.customerkey, df_stage_final.customer, df_stage_final.phone, df_stage_final.customer_type, df_stage_final.business_family, df_stage_final.business_unit, df_stage_final.line_of_business, df_stage_final.regional_sales_mgr, df_stage_final.search_type), 256))
+#Criando as chaves criptografadas para as dimensões
+
+df_stage_final.withColumn('PK_CUSTOMER', sha2(concat_ws("", df_stage_final.customerkey, df_stage_final.customer, df_stage_final.phone, df_stage_final.customer_type, df_stage_final.business_family, df_stage_final.business_unit, df_stage_final.line_of_business, df_stage_final.regional_sales_mgr, df_stage_final.search_type), 256))
 df_stage_final = df_stage_final.withColumn('PK_LOCALITY', sha2(concat_ws("", df_stage_final.address_number, df_stage_final.customer_address_1, df_stage_final.customer_address_2, df_stage_final.customer_address_3, df_stage_final.customer_address_4, df_stage_final.zip_code, df_stage_final.city, df_stage_final.state, df_stage_final.country, df_stage_final.region_code, df_stage_final.region_name, df_stage_final.division, df_stage_final.division_name), 256))
 df_stage_final = df_stage_final.withColumn('PK_TIME', sha2(concat_ws("", df_stage_final.invoice_date, df_stage_final.day_num, df_stage_final.month_num, df_stage_final.year, df_stage_final.week_of_year, df_stage_final.quarter), 256))
 
