@@ -380,12 +380,5 @@ df = spark.sql("""select
 ft_vendas.printSchema()
 
 
-# In[155]:
 
-
-#SALVANDO AS DIMENSÕES NO HDFS
-salvar_df(dim_clientes, 'DIM_CLIENTES')
-salvar_df(dim_localidade, 'DIM_LOCALIDADE')
-salvar_df(dim_tempo, 'DIM_TEMPO')
-salvar_df(ft_vendas, 'FT_VENDAS')
 
