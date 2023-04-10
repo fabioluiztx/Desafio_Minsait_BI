@@ -91,7 +91,7 @@ SELECT
      c.customer_type,
      c.business_family,
      c.business_unit,
-     C.line_of_business,
+     c.line_of_business,
      c.regional_sales_mgr,
      c.search_type,
 
